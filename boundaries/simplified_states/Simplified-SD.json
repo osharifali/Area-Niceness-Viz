@@ -1,0 +1,415 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.74404832599998, 
+              43.54593096100007
+            ], 
+            [
+              -96.74252835899995, 
+              43.541255883000076
+            ], 
+            [
+              -96.74749402899994, 
+              43.53898337100003
+            ], 
+            [
+              -96.75441270899995, 
+              43.547607689000074
+            ], 
+            [
+              -96.74404832599998, 
+              43.54593096100007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "Emerson/ West 12th ST", 
+        "RegionID": "761395", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.73132977399996, 
+              43.55381115100005
+            ], 
+            [
+              -96.73127814499998, 
+              43.55120845600004
+            ], 
+            [
+              -96.74683365699997, 
+              43.55116087300007
+            ], 
+            [
+              -96.73146597199997, 
+              43.564140646000055
+            ], 
+            [
+              -96.73132977399996, 
+              43.55381115100005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "North End West", 
+        "RegionID": "761397", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.72396481199996, 
+              43.553566197000066
+            ], 
+            [
+              -96.72155994499997, 
+              43.545178605000046
+            ], 
+            [
+              -96.72673146499994, 
+              43.54153889500003
+            ], 
+            [
+              -96.73125896199997, 
+              43.54147263800007
+            ], 
+            [
+              -96.73133425299994, 
+              43.54727537400004
+            ], 
+            [
+              -96.73127814499998, 
+              43.55120845600004
+            ], 
+            [
+              -96.73132977399996, 
+              43.55381115100005
+            ], 
+            [
+              -96.72396481199996, 
+              43.553566197000066
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "Downtown", 
+        "RegionID": "761399", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "Riverside", 
+        "RegionID": "266208", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.73127814499998, 
+              43.55120845600004
+            ], 
+            [
+              -96.73133425299994, 
+              43.54727537400004
+            ], 
+            [
+              -96.74404832599998, 
+              43.54593096100007
+            ], 
+            [
+              -96.75441270899995, 
+              43.547607689000074
+            ], 
+            [
+              -96.74683365699997, 
+              43.55116087300007
+            ], 
+            [
+              -96.73127814499998, 
+              43.55120845600004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "Axtell Park/ Lincoln Elementary", 
+        "RegionID": "761396", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.72396481199996, 
+              43.553566197000066
+            ], 
+            [
+              -96.73132977399996, 
+              43.55381115100005
+            ], 
+            [
+              -96.73146597199997, 
+              43.564140646000055
+            ], 
+            [
+              -96.72396481199996, 
+              43.553566197000066
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "North End East", 
+        "RegionID": "761398", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "Norton Tracts", 
+        "RegionID": "761400", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "West Sioux", 
+        "RegionID": "761401", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "Froelich Addition", 
+        "RegionID": "224187", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.73125896199997, 
+              43.54147263800007
+            ], 
+            [
+              -96.73129688899996, 
+              43.53895008100005
+            ], 
+            [
+              -96.74252835899995, 
+              43.541255883000076
+            ], 
+            [
+              -96.74404832599998, 
+              43.54593096100007
+            ], 
+            [
+              -96.73133425299994, 
+              43.54727537400004
+            ], 
+            [
+              -96.73125896199997, 
+              43.54147263800007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "Pettigrew Heights", 
+        "RegionID": "761391", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.71514513799997, 
+              43.536664021000036
+            ], 
+            [
+              -96.72673146499994, 
+              43.54153889500003
+            ], 
+            [
+              -96.72155994499997, 
+              43.545178605000046
+            ], 
+            [
+              -96.71514513799997, 
+              43.536664021000036
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "Beadle Greenway", 
+        "RegionID": "761392", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.71514513799997, 
+              43.536664021000036
+            ], 
+            [
+              -96.73133496099996, 
+              43.533077572000025
+            ], 
+            [
+              -96.73129688899996, 
+              43.53895008100005
+            ], 
+            [
+              -96.73125896199997, 
+              43.54147263800007
+            ], 
+            [
+              -96.72673146499994, 
+              43.54153889500003
+            ], 
+            [
+              -96.71514513799997, 
+              43.536664021000036
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "All Saints", 
+        "RegionID": "761393", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.73129688899996, 
+              43.53895008100005
+            ], 
+            [
+              -96.73133496099996, 
+              43.533077572000025
+            ], 
+            [
+              -96.74494122299996, 
+              43.51850342100005
+            ], 
+            [
+              -96.74749402899994, 
+              43.53898337100003
+            ], 
+            [
+              -96.74252835899995, 
+              43.541255883000076
+            ], 
+            [
+              -96.73129688899996, 
+              43.53895008100005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Sioux Falls", 
+        "Name": "Agustana/USF/Sanford", 
+        "RegionID": "761394", 
+        "County": "Minnehaha", 
+        "State_abbv": "SD", 
+        "State": "South Dakota"
+      }
+    }
+  ]
+}

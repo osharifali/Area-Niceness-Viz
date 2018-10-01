@@ -1,0 +1,8059 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "High Field", 
+        "RegionID": "159467", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Three Oaks", 
+        "RegionID": "168860", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Lakeview Heights", 
+        "RegionID": "173605", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.96713999997968, 
+              36.138040002291056
+            ], 
+            [
+              -95.96723999999976, 
+              36.133250000001134
+            ], 
+            [
+              -95.97562002410267, 
+              36.133338137813915
+            ], 
+            [
+              -95.97562000037765, 
+              36.140629999980085
+            ], 
+            [
+              -95.96713999997968, 
+              36.138040002291056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Swan Lake", 
+        "RegionID": "198308", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Eastwood", 
+        "RegionID": "200514", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Walnut Creek", 
+        "RegionID": "204109", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00074417078338, 
+              36.172662755184
+            ], 
+            [
+              -96.00073995233298, 
+              36.17152999982036
+            ], 
+            [
+              -96.00070319535472, 
+              36.16241000000084
+            ], 
+            [
+              -96.00461886732903, 
+              36.1613270261736
+            ], 
+            [
+              -96.00370097109996, 
+              36.17268000000202
+            ], 
+            [
+              -96.00074417078338, 
+              36.172662755184
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Country Club Gardens", 
+        "RegionID": "141730", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00074417078338, 
+              36.172662755184
+            ], 
+            [
+              -96.00073995233298, 
+              36.17152999982036
+            ], 
+            [
+              -96.00070319535472, 
+              36.16241000000084
+            ], 
+            [
+              -96.00461886732903, 
+              36.1613270261736
+            ], 
+            [
+              -96.00370097109996, 
+              36.17268000000202
+            ], 
+            [
+              -96.00074417078338, 
+              36.172662755184
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Country Club Gardens", 
+        "RegionID": "141730", 
+        "County": "Osage", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.96716333348708, 
+              36.169896741086234
+            ], 
+            [
+              -95.96714566461378, 
+              36.16512468118948
+            ], 
+            [
+              -95.97554000028718, 
+              36.17694999965295
+            ], 
+            [
+              -95.96716333348708, 
+              36.169896741086234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Crutchfield", 
+        "RegionID": "147093", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.50152158499998, 
+              35.46778765500005
+            ], 
+            [
+              -97.51248328599996, 
+              35.46426224600003
+            ], 
+            [
+              -97.51232871699995, 
+              35.470461027000056
+            ], 
+            [
+              -97.50152158499998, 
+              35.46778765500005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Bricktown", 
+        "RegionID": "188374", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Carbondale", 
+        "RegionID": "204766", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Thousand Oaks", 
+        "RegionID": "118526", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Charter Oak", 
+        "RegionID": "133936", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89026758299262, 
+              36.042559477559806
+            ], 
+            [
+              -95.89529867664861, 
+              36.04074691362424
+            ], 
+            [
+              -95.89529814746747, 
+              36.04636315661242
+            ], 
+            [
+              -95.89026758299262, 
+              36.042559477559806
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Southfield", 
+        "RegionID": "168723", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Forest Oaks", 
+        "RegionID": "181582", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89971015245611, 
+              36.02532389364718
+            ], 
+            [
+              -95.90423814161858, 
+              36.02238243512723
+            ], 
+            [
+              -95.90423000000008, 
+              36.02506519530319
+            ], 
+            [
+              -95.90423801557114, 
+              36.025968370514256
+            ], 
+            [
+              -95.89971015245611, 
+              36.02532389364718
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Saddlebrook", 
+        "RegionID": "190115", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92657413370895, 
+              36.046367207665426
+            ], 
+            [
+              -95.92660438955735, 
+              36.03914557779799
+            ], 
+            [
+              -95.93105906295294, 
+              36.03914557779799
+            ], 
+            [
+              -95.93103323346337, 
+              36.04637000000032
+            ], 
+            [
+              -95.92657413370895, 
+              36.046367207665426
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Brookwood", 
+        "RegionID": "199725", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.90458053641704, 
+              36.129813676054496
+            ], 
+            [
+              -95.9046036824894, 
+              36.12614536507046
+            ], 
+            [
+              -95.91248145471052, 
+              36.115730532214414
+            ], 
+            [
+              -95.92243999999839, 
+              36.119470000001925
+            ], 
+            [
+              -95.9225099999985, 
+              36.11959294025759
+            ], 
+            [
+              -95.92244343034106, 
+              36.12244532856483
+            ], 
+            [
+              -95.92250516098993, 
+              36.12607583274691
+            ], 
+            [
+              -95.92248992604293, 
+              36.133304273706486
+            ], 
+            [
+              -95.9192072583037, 
+              36.1333365411091
+            ], 
+            [
+              -95.91356931639011, 
+              36.133350000000526
+            ], 
+            [
+              -95.9045799999984, 
+              36.13341000000123
+            ], 
+            [
+              -95.90458053641704, 
+              36.129813676054496
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Hoover", 
+        "RegionID": "224273", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9045799999984, 
+              36.1812500000018
+            ], 
+            [
+              -95.91359605383853, 
+              36.17709000000133
+            ], 
+            [
+              -95.92248999999897, 
+              36.177110000000674
+            ], 
+            [
+              -95.9224800324172, 
+              36.180231718165174
+            ], 
+            [
+              -95.92248453988857, 
+              36.184358790179445
+            ], 
+            [
+              -95.92246999999945, 
+              36.19161000000226
+            ], 
+            [
+              -95.9045799999984, 
+              36.1812500000018
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Dawson", 
+        "RegionID": "204961", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.54918699999996, 
+              35.55881300000004
+            ], 
+            [
+              -97.56386999999995, 
+              35.557832000000076
+            ], 
+            [
+              -97.57581899999997, 
+              35.58025500000008
+            ], 
+            [
+              -97.54021799999998, 
+              35.58025600000008
+            ], 
+            [
+              -97.54918699999996, 
+              35.55881300000004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "The Village", 
+        "RegionID": "206211", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.90874633907427, 
+              36.07535721461474
+            ], 
+            [
+              -95.91317577725593, 
+              36.068096837893755
+            ], 
+            [
+              -95.9132523570086, 
+              36.07535129511518
+            ], 
+            [
+              -95.90874633907427, 
+              36.07535721461474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Hidden Valley", 
+        "RegionID": "211576", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.56559966299994, 
+              35.51137290500003
+            ], 
+            [
+              -97.57639314499994, 
+              35.511305521000054
+            ], 
+            [
+              -97.57886778399995, 
+              35.53614709400006
+            ], 
+            [
+              -97.56564369199998, 
+              35.53652247800005
+            ], 
+            [
+              -97.56559966299994, 
+              35.51137290500003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Mayfair", 
+        "RegionID": "213080", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.8332599999993, 
+              36.14797000000031
+            ], 
+            [
+              -95.8332599999993, 
+              36.133452681721074
+            ], 
+            [
+              -95.85112999999896, 
+              36.133490000001096
+            ], 
+            [
+              -95.85115942415221, 
+              36.14567267986299
+            ], 
+            [
+              -95.85117291982328, 
+              36.147968739868936
+            ], 
+            [
+              -95.8479243701717, 
+              36.14797417274264
+            ], 
+            [
+              -95.8332599999993, 
+              36.14797000000031
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Cooper", 
+        "RegionID": "232334", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.77511734725365, 
+              36.16212580075395
+            ], 
+            [
+              -95.76169989841199, 
+              36.15526209358528
+            ], 
+            [
+              -95.76185100011435, 
+              36.090289999855614
+            ], 
+            [
+              -95.79736799988783, 
+              36.09019799998354
+            ], 
+            [
+              -95.7975399999995, 
+              36.13344000000211
+            ], 
+            [
+              -95.7975346055991, 
+              36.16223274860168
+            ], 
+            [
+              -95.77511734725365, 
+              36.16212580075395
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Lynn Lane", 
+        "RegionID": "205554", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Crescent Heights", 
+        "RegionID": "232460", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00226290469054, 
+              36.14640459889593
+            ], 
+            [
+              -96.0047746266185, 
+              36.14343104544197
+            ], 
+            [
+              -96.01084612243606, 
+              36.14618714818391
+            ], 
+            [
+              -96.02043471537412, 
+              36.15037956540441
+            ], 
+            [
+              -96.0203799997166, 
+              36.15679999980596
+            ], 
+            [
+              -96.00700835415121, 
+              36.15654038765463
+            ], 
+            [
+              -96.00207999971325, 
+              36.15913999975355
+            ], 
+            [
+              -96.00226290469054, 
+              36.14640459889593
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Irving", 
+        "RegionID": "234314", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92752231424286, 
+              36.06808620783408
+            ], 
+            [
+              -95.92650990819072, 
+              36.0638227326292
+            ], 
+            [
+              -95.9305499999991, 
+              36.06487000000051
+            ], 
+            [
+              -95.93088488319601, 
+              36.06628755276599
+            ], 
+            [
+              -95.9305799999983, 
+              36.067830000000285
+            ], 
+            [
+              -95.92752231424286, 
+              36.06808620783408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Willow Creek", 
+        "RegionID": "241073", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91359605383853, 
+              36.17709000000133
+            ], 
+            [
+              -95.91446912619908, 
+              36.16057388786988
+            ], 
+            [
+              -95.92251999999995, 
+              36.15912000000076
+            ], 
+            [
+              -95.9225099999985, 
+              36.16073000000199
+            ], 
+            [
+              -95.92248999999897, 
+              36.177110000000674
+            ], 
+            [
+              -95.91359605383853, 
+              36.17709000000133
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Maxwell", 
+        "RegionID": "245433", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91317577725593, 
+              36.068096837893755
+            ], 
+            [
+              -95.91339999999933, 
+              36.075350000000945
+            ], 
+            [
+              -95.9132523570086, 
+              36.07535129511518
+            ], 
+            [
+              -95.91317577725593, 
+              36.068096837893755
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Warrenton", 
+        "RegionID": "248275", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91248145471052, 
+              36.115730532214414
+            ], 
+            [
+              -95.92237825555239, 
+              36.111600047143284
+            ], 
+            [
+              -95.9223899998748, 
+              36.11159997292816
+            ], 
+            [
+              -95.92243999999839, 
+              36.119470000001925
+            ], 
+            [
+              -95.91248145471052, 
+              36.115730532214414
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Highland Park", 
+        "RegionID": "250865", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.02462548076572, 
+              36.07530669871874
+            ], 
+            [
+              -96.02518976266737, 
+              36.07530999861261
+            ], 
+            [
+              -96.0295814150142, 
+              36.07531844528548
+            ], 
+            [
+              -96.02959000000008, 
+              36.07896000000103
+            ], 
+            [
+              -96.02461711495873, 
+              36.078974890102096
+            ], 
+            [
+              -96.02462548076572, 
+              36.07530669871874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Summit Park", 
+        "RegionID": "240759", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.96080999999862, 
+              36.1380000000014
+            ], 
+            [
+              -95.95939999999972, 
+              36.1380000000014
+            ], 
+            [
+              -95.95821999999855, 
+              36.138000000001576
+            ], 
+            [
+              -95.95819999999911, 
+              36.133160000002036
+            ], 
+            [
+              -95.96723999999976, 
+              36.133250000001134
+            ], 
+            [
+              -95.96713999997968, 
+              36.138040002291056
+            ], 
+            [
+              -95.96080999999862, 
+              36.1380000000014
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Yorktown", 
+        "RegionID": "248778", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.85973644964534, 
+              36.118965347133276
+            ], 
+            [
+              -95.85984089864218, 
+              36.13345764543762
+            ], 
+            [
+              -95.85112999999896, 
+              36.133490000001096
+            ], 
+            [
+              -95.85973644964534, 
+              36.118965347133276
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Columbus", 
+        "RegionID": "252840", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89529814746747, 
+              36.04636315661242
+            ], 
+            [
+              -95.89529867664861, 
+              36.04074691362424
+            ], 
+            [
+              -95.90424999999952, 
+              36.03912936196043
+            ], 
+            [
+              -95.89529814746747, 
+              36.04636315661242
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Crescent", 
+        "RegionID": "252875", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Williamsburg", 
+        "RegionID": "258488", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Rolling Meadows", 
+        "RegionID": "261179", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00370097109996, 
+              36.17268000000202
+            ], 
+            [
+              -96.00461886732903, 
+              36.1613270261736
+            ], 
+            [
+              -96.00707000027178, 
+              36.16128999995755
+            ], 
+            [
+              -96.01099999990434, 
+              36.16130000039643
+            ], 
+            [
+              -96.01091000025244, 
+              36.1713899996624
+            ], 
+            [
+              -96.00370097109996, 
+              36.17268000000202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Country Club Heights", 
+        "RegionID": "147032", 
+        "County": "Osage", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Trees", 
+        "RegionID": "153600", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.38857247799996, 
+              35.46832107200004
+            ], 
+            [
+              -97.39426444399999, 
+              35.464080899000066
+            ], 
+            [
+              -97.40291400199999, 
+              35.46409250000005
+            ], 
+            [
+              -97.39863470199998, 
+              35.47858594500008
+            ], 
+            [
+              -97.39211689199999, 
+              35.47859834800005
+            ], 
+            [
+              -97.38855373699994, 
+              35.47860512900007
+            ], 
+            [
+              -97.38857247799996, 
+              35.46832107200004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Ridgecrest", 
+        "RegionID": "183798", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94443307497957, 
+              36.03915204714873
+            ], 
+            [
+              -95.94523674532478, 
+              36.03190000000051
+            ], 
+            [
+              -95.94891915272414, 
+              36.03431914193404
+            ], 
+            [
+              -95.94895998493216, 
+              36.03916374186202
+            ], 
+            [
+              -95.94443307497957, 
+              36.03915204714873
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Cedarcrest", 
+        "RegionID": "190934", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "South Haven", 
+        "RegionID": "198045", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94034999999887, 
+              36.12606801060469
+            ], 
+            [
+              -95.95819999999911, 
+              36.133160000002036
+            ], 
+            [
+              -95.94896031450533, 
+              36.13327000000101
+            ], 
+            [
+              -95.94034999999887, 
+              36.12606801060469
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Bryn Mawr", 
+        "RegionID": "250164", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.96717000026798, 
+              36.155669999877844
+            ], 
+            [
+              -95.96720835095061, 
+              36.14787193968915
+            ], 
+            [
+              -95.96721987996311, 
+              36.14786012250157
+            ], 
+            [
+              -95.97559976570416, 
+              36.14789999746499
+            ], 
+            [
+              -95.97999163519154, 
+              36.147911607231116
+            ], 
+            [
+              -95.98034000031761, 
+              36.15568999990046
+            ], 
+            [
+              -95.96717000026798, 
+              36.155669999877844
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Central Park", 
+        "RegionID": "250248", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.90440999999916, 
+              36.08987000000152
+            ], 
+            [
+              -95.9133573544875, 
+              36.08987000000152
+            ], 
+            [
+              -95.91338773970175, 
+              36.100843013770785
+            ], 
+            [
+              -95.90440999999916, 
+              36.08987000000152
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Stevenson", 
+        "RegionID": "252009", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Stillwater", 
+        "Name": "Westwood", 
+        "RegionID": "252318", 
+        "County": "Payne", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.86870101598615, 
+              36.11155038135287
+            ], 
+            [
+              -95.86867999999951, 
+              36.104470000000184
+            ], 
+            [
+              -95.87734078055676, 
+              36.104423339155396
+            ], 
+            [
+              -95.87764953059892, 
+              36.11893000000112
+            ], 
+            [
+              -95.87015523707502, 
+              36.11895856415412
+            ], 
+            [
+              -95.8687953321715, 
+              36.11897000000177
+            ], 
+            [
+              -95.86870101598615, 
+              36.11155038135287
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Briarwood", 
+        "RegionID": "270804", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.940269999999, 
+              36.17478000000116
+            ], 
+            [
+              -95.94027000043502, 
+              36.17452706602677
+            ], 
+            [
+              -95.95822036921449, 
+              36.16817023793992
+            ], 
+            [
+              -95.95823187963705, 
+              36.16988523066091
+            ], 
+            [
+              -95.95039247537692, 
+              36.17713493822123
+            ], 
+            [
+              -95.94032999999945, 
+              36.177140000001735
+            ], 
+            [
+              -95.940269999999, 
+              36.17478000000116
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Independence", 
+        "RegionID": "256447", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.90455999999897, 
+              36.177110000000674
+            ], 
+            [
+              -95.90455630149124, 
+              36.16301657314189
+            ], 
+            [
+              -95.90455666032997, 
+              36.162973245469416
+            ], 
+            [
+              -95.91346999999944, 
+              36.16121000000085
+            ], 
+            [
+              -95.91446912619908, 
+              36.16057388786988
+            ], 
+            [
+              -95.91359605383853, 
+              36.17709000000133
+            ], 
+            [
+              -95.9045799999984, 
+              36.1812500000018
+            ], 
+            [
+              -95.90455999999897, 
+              36.177110000000674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Maplewood", 
+        "RegionID": "256913", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Fulton", 
+        "RegionID": "272525", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.98034000031761, 
+              36.15568999990046
+            ], 
+            [
+              -95.97999163519154, 
+              36.147911607231116
+            ], 
+            [
+              -95.97886406448504, 
+              36.14346317732117
+            ], 
+            [
+              -95.98317429108698, 
+              36.14187641154853
+            ], 
+            [
+              -96.00226290469054, 
+              36.14640459889593
+            ], 
+            [
+              -96.00207999971325, 
+              36.15913999975355
+            ], 
+            [
+              -95.98034000031761, 
+              36.15568999990046
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Downtown", 
+        "RegionID": "276303", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89547835342162, 
+              36.0288001988809
+            ], 
+            [
+              -95.8954843755629, 
+              36.028521674844356
+            ], 
+            [
+              -95.89839769795282, 
+              36.028521674844356
+            ], 
+            [
+              -95.89842104836445, 
+              36.030442246214385
+            ], 
+            [
+              -95.89843806607117, 
+              36.03184195258706
+            ], 
+            [
+              -95.89527203932028, 
+              36.03185000000135
+            ], 
+            [
+              -95.89547835342162, 
+              36.0288001988809
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Kingsbury", 
+        "RegionID": "413629", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9756099999442, 
+              36.14307000001553
+            ], 
+            [
+              -95.97562000037765, 
+              36.140629999980085
+            ], 
+            [
+              -95.97562002410267, 
+              36.133338137813915
+            ], 
+            [
+              -95.97579000012011, 
+              36.118860000083615
+            ], 
+            [
+              -95.98779899701364, 
+              36.11878718467693
+            ], 
+            [
+              -95.98949212244807, 
+              36.12602524542929
+            ], 
+            [
+              -95.99317082016456, 
+              36.13352815012451
+            ], 
+            [
+              -95.98317429108698, 
+              36.14187641154853
+            ], 
+            [
+              -95.97886406448504, 
+              36.14346317732117
+            ], 
+            [
+              -95.9756099999442, 
+              36.14307000001553
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Maple Ridge", 
+        "RegionID": "414277", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.98317429108698, 
+              36.14187641154853
+            ], 
+            [
+              -95.99317082016456, 
+              36.13352815012451
+            ], 
+            [
+              -96.0047746266185, 
+              36.14343104544197
+            ], 
+            [
+              -96.00226290469054, 
+              36.14640459889593
+            ], 
+            [
+              -95.98317429108698, 
+              36.14187641154853
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Riverview", 
+        "RegionID": "414640", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94034999999887, 
+              36.191600000000186
+            ], 
+            [
+              -95.94032999999945, 
+              36.1844000000006
+            ], 
+            [
+              -95.94032999999945, 
+              36.182000000000976
+            ], 
+            [
+              -95.95039247537692, 
+              36.17713493822123
+            ], 
+            [
+              -95.95823187963705, 
+              36.16988523066091
+            ], 
+            [
+              -95.96716333348708, 
+              36.169896741086234
+            ], 
+            [
+              -95.97554000028718, 
+              36.17694999965295
+            ], 
+            [
+              -95.9755299998262, 
+              36.191440000295145
+            ], 
+            [
+              -95.94034999999887, 
+              36.191600000000186
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Springdale", 
+        "RegionID": "415063", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94027000043502, 
+              36.159600000273535
+            ], 
+            [
+              -95.94040000013233, 
+              36.14783000000809
+            ], 
+            [
+              -95.95818000033523, 
+              36.14778999997245
+            ], 
+            [
+              -95.95814999996362, 
+              36.16075999978598
+            ], 
+            [
+              -95.94027000043502, 
+              36.159600000273535
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Kendall - Tennants", 
+        "RegionID": "417487", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.01988999970901, 
+              36.16122999990161
+            ], 
+            [
+              -96.0203799997166, 
+              36.15679999980596
+            ], 
+            [
+              -96.02043471537412, 
+              36.15037956540441
+            ], 
+            [
+              -96.06522000000825, 
+              36.147965561908464
+            ], 
+            [
+              -96.05618707199308, 
+              36.15083266541525
+            ], 
+            [
+              -96.04726000028386, 
+              36.16108999980707
+            ], 
+            [
+              -96.0292634374788, 
+              36.16119004273479
+            ], 
+            [
+              -96.01988999970901, 
+              36.16122999990161
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "West O' Main", 
+        "RegionID": "417489", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.97559976570416, 
+              36.14789999746499
+            ], 
+            [
+              -95.97559999999967, 
+              36.14426000000119
+            ], 
+            [
+              -95.9756099999442, 
+              36.14307000001553
+            ], 
+            [
+              -95.97886406448504, 
+              36.14346317732117
+            ], 
+            [
+              -95.97999163519154, 
+              36.147911607231116
+            ], 
+            [
+              -95.97559976570416, 
+              36.14789999746499
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Tracy Park", 
+        "RegionID": "417964", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.95818000033523, 
+              36.14778999997245
+            ], 
+            [
+              -95.95818770106, 
+              36.144160749470196
+            ], 
+            [
+              -95.9672479357536, 
+              36.14420241942941
+            ], 
+            [
+              -95.96721987996311, 
+              36.14786012250157
+            ], 
+            [
+              -95.96720835095061, 
+              36.14787193968915
+            ], 
+            [
+              -95.95818000033523, 
+              36.14778999997245
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Terrace Drive", 
+        "RegionID": "417966", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9403795836338, 
+              36.1332699935436
+            ], 
+            [
+              -95.94034999999887, 
+              36.12606801060469
+            ], 
+            [
+              -95.94896031450533, 
+              36.13327000000101
+            ], 
+            [
+              -95.9403795836338, 
+              36.1332699935436
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Florence Park South", 
+        "RegionID": "417971", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Lortondale", 
+        "RegionID": "417973", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Charlene Estates", 
+        "RegionID": "417980", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Millwood Estates", 
+        "RegionID": "417982", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9046036824894, 
+              36.12614536507046
+            ], 
+            [
+              -95.90458053641704, 
+              36.129813676054496
+            ], 
+            [
+              -95.886662498203, 
+              36.12618228991604
+            ], 
+            [
+              -95.9046036824894, 
+              36.12614536507046
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Johansen Acres", 
+        "RegionID": "417989", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Regency Park", 
+        "RegionID": "417991", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.93564259701155, 
+              36.075300000000894
+            ], 
+            [
+              -95.94010999999954, 
+              36.075300000000716
+            ], 
+            [
+              -95.94011999999913, 
+              36.07712000000049
+            ], 
+            [
+              -95.93564259701155, 
+              36.075300000000894
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Oak Hollow", 
+        "RegionID": "417996", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92752231424286, 
+              36.06808620783408
+            ], 
+            [
+              -95.9305799999983, 
+              36.067830000000285
+            ], 
+            [
+              -95.93112576957024, 
+              36.07174044868817
+            ], 
+            [
+              -95.93115683609204, 
+              36.07530191073007
+            ], 
+            [
+              -95.92752231424286, 
+              36.06808620783408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Livingston Park", 
+        "RegionID": "417998", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.8909067791217, 
+              36.060839316088185
+            ], 
+            [
+              -95.9042799999987, 
+              36.06813665563557
+            ], 
+            [
+              -95.90431999999963, 
+              36.075370000001
+            ], 
+            [
+              -95.90241446550844, 
+              36.075370000000824
+            ], 
+            [
+              -95.89655684676684, 
+              36.075376948837
+            ], 
+            [
+              -95.8909067791217, 
+              36.060839316088185
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Shadow Mountain", 
+        "RegionID": "418005", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Woodland View Park I", 
+        "RegionID": "418007", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Millicent Crossing", 
+        "RegionID": "418014", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89529505904923, 
+              36.017319317250625
+            ], 
+            [
+              -95.89644143403733, 
+              36.017330000000776
+            ], 
+            [
+              -95.89976017041975, 
+              36.017321265348485
+            ], 
+            [
+              -95.90202168126181, 
+              36.01732157180539
+            ], 
+            [
+              -95.90203542287162, 
+              36.02097369191963
+            ], 
+            [
+              -95.89529505904923, 
+              36.017319317250625
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Sheridan Hills South", 
+        "RegionID": "418016", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.90867575778279, 
+              36.02461073955052
+            ], 
+            [
+              -95.90424134796301, 
+              36.0209750156373
+            ], 
+            [
+              -95.91322678741754, 
+              36.01734724690228
+            ], 
+            [
+              -95.91767775963119, 
+              36.02100235288212
+            ], 
+            [
+              -95.92216711472508, 
+              36.02101433230349
+            ], 
+            [
+              -95.92217999999944, 
+              36.025490896911556
+            ], 
+            [
+              -95.91706804019003, 
+              36.025376360048185
+            ], 
+            [
+              -95.91321188252688, 
+              36.02541858249275
+            ], 
+            [
+              -95.90876419678408, 
+              36.02586574697348
+            ], 
+            [
+              -95.90867846955591, 
+              36.02587391147136
+            ], 
+            [
+              -95.90867575778279, 
+              36.02461073955052
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Sun Meadow", 
+        "RegionID": "418021", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Winbury Place", 
+        "RegionID": "418023", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89976017041975, 
+              36.017321265348485
+            ], 
+            [
+              -95.89974226888599, 
+              36.01355419737555
+            ], 
+            [
+              -95.9042799999987, 
+              36.01009457529109
+            ], 
+            [
+              -95.90202168126181, 
+              36.01732157180539
+            ], 
+            [
+              -95.89976017041975, 
+              36.017321265348485
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Sheridan Heights", 
+        "RegionID": "418030", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91322678741754, 
+              36.01734724690228
+            ], 
+            [
+              -95.91323965529106, 
+              36.01373415334532
+            ], 
+            [
+              -95.9154561857458, 
+              36.01373415334532
+            ], 
+            [
+              -95.91771247532772, 
+              36.01373415334532
+            ], 
+            [
+              -95.91768590983551, 
+              36.01735921155662
+            ], 
+            [
+              -95.91322678741754, 
+              36.01734724690228
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Camelot Park", 
+        "RegionID": "418032", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91332231459748, 
+              36.0028007974978
+            ], 
+            [
+              -95.91332231459758, 
+              35.99920468544344
+            ], 
+            [
+              -95.91332231459748, 
+              35.99568817501588
+            ], 
+            [
+              -95.91777329190225, 
+              36.0028026155603
+            ], 
+            [
+              -95.91332231459748, 
+              36.0028007974978
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Fieldstone", 
+        "RegionID": "418039", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Woodfield Estates", 
+        "RegionID": "418041", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.93108812887613, 
+              36.021928606950944
+            ], 
+            [
+              -95.9311234328761, 
+              36.02101035687976
+            ], 
+            [
+              -95.93112691699825, 
+              36.019599579426504
+            ], 
+            [
+              -95.94019838472956, 
+              36.01735822737801
+            ], 
+            [
+              -95.93108812887613, 
+              36.021928606950944
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Silver Chase", 
+        "RegionID": "418046", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Harvard Pointe", 
+        "RegionID": "418048", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Pebble Creek", 
+        "RegionID": "418055", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Southern Hills", 
+        "RegionID": "418057", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Quail Ridge", 
+        "RegionID": "418064", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Summerfield South", 
+        "RegionID": "418066", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.83334999999893, 
+              36.15812374636899
+            ], 
+            [
+              -95.8332599999993, 
+              36.14797000000031
+            ], 
+            [
+              -95.8479243701717, 
+              36.14797417274264
+            ], 
+            [
+              -95.84222912135799, 
+              36.15199283043815
+            ], 
+            [
+              -95.83334999999893, 
+              36.15812374636899
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Plain View Heights", 
+        "RegionID": "418071", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.85117999999964, 
+              36.16065000000159
+            ], 
+            [
+              -95.85117291982328, 
+              36.147968739868936
+            ], 
+            [
+              -95.8555678535469, 
+              36.14796873683936
+            ], 
+            [
+              -95.86042825730725, 
+              36.14799044629297
+            ], 
+            [
+              -95.86089203791992, 
+              36.16068644056664
+            ], 
+            [
+              -95.85117999999964, 
+              36.16065000000159
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Wagon Wheel", 
+        "RegionID": "418073", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94032999999945, 
+              36.182000000000976
+            ], 
+            [
+              -95.94032999999945, 
+              36.177140000001735
+            ], 
+            [
+              -95.95039247537692, 
+              36.17713493822123
+            ], 
+            [
+              -95.94032999999945, 
+              36.182000000000976
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "North Evanston", 
+        "RegionID": "418080", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00472097268032, 
+              36.18462470339498
+            ], 
+            [
+              -96.0008699996943, 
+              36.17694000009141
+            ], 
+            [
+              -96.00074417078338, 
+              36.172662755184
+            ], 
+            [
+              -96.00370097109996, 
+              36.17268000000202
+            ], 
+            [
+              -96.01091000025244, 
+              36.1713899996624
+            ], 
+            [
+              -96.01542269477379, 
+              36.161269444286965
+            ], 
+            [
+              -96.01988999970901, 
+              36.16122999990161
+            ], 
+            [
+              -96.00606999999941, 
+              36.19137000000087
+            ], 
+            [
+              -96.00472097268032, 
+              36.18462470339498
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Gilcrease Hills", 
+        "RegionID": "418082", 
+        "County": "Osage", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.86089203791992, 
+              36.16068644056664
+            ], 
+            [
+              -95.86042825730725, 
+              36.14799044629297
+            ], 
+            [
+              -95.86873765995196, 
+              36.16070576475831
+            ], 
+            [
+              -95.86089203791992, 
+              36.16068644056664
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Rosewood", 
+        "RegionID": "237256", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Wedgewood", 
+        "RegionID": "248337", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91715632753653, 
+              36.03186000000164
+            ], 
+            [
+              -95.91912557277087, 
+              36.03186000000164
+            ], 
+            [
+              -95.91911903025883, 
+              36.03551072166191
+            ], 
+            [
+              -95.9171431717828, 
+              36.035510721662085
+            ], 
+            [
+              -95.91715632753653, 
+              36.03186000000164
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Fox Point", 
+        "RegionID": "253135", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Rolling Hills", 
+        "RegionID": "259014", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Bridle Trails", 
+        "RegionID": "271817", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Woodlands", 
+        "RegionID": "411953", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Litchfield", 
+        "RegionID": "412869", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Kensington", 
+        "RegionID": "414875", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Walt Whitman", 
+        "RegionID": "417482", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9755299998262, 
+              36.191440000295145
+            ], 
+            [
+              -95.97554000028718, 
+              36.17694999965295
+            ], 
+            [
+              -95.98327339722157, 
+              36.17694999965259
+            ], 
+            [
+              -95.98328511179035, 
+              36.17694956078356
+            ], 
+            [
+              -95.9755299998262, 
+              36.191440000295145
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Lacy Park", 
+        "RegionID": "417483", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.99362000003093, 
+              36.176929999723235
+            ], 
+            [
+              -95.99265000029422, 
+              36.164280000168354
+            ], 
+            [
+              -95.9975067045338, 
+              36.1642800000012
+            ], 
+            [
+              -96.00073995233298, 
+              36.17152999982036
+            ], 
+            [
+              -96.00074417078338, 
+              36.172662755184
+            ], 
+            [
+              -96.0008699996943, 
+              36.17694000009141
+            ], 
+            [
+              -95.99362000003093, 
+              36.176929999723235
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Cheyenne Park", 
+        "RegionID": "417484", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.95823187963705, 
+              36.16988523066091
+            ], 
+            [
+              -95.95822036921449, 
+              36.16817023793992
+            ], 
+            [
+              -95.96714566461378, 
+              36.16512468118948
+            ], 
+            [
+              -95.96716333348708, 
+              36.169896741086234
+            ], 
+            [
+              -95.95823187963705, 
+              36.16988523066091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Cherokee Heights", 
+        "RegionID": "417485", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94039999999937, 
+              36.14419000000108
+            ], 
+            [
+              -95.95818770106, 
+              36.144160749470196
+            ], 
+            [
+              -95.95818000033523, 
+              36.14778999997245
+            ], 
+            [
+              -95.94040000013233, 
+              36.14783000000809
+            ], 
+            [
+              -95.94039999999937, 
+              36.14419000000108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Renaissance", 
+        "RegionID": "417967", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.95441263044282, 
+              36.14048000000036
+            ], 
+            [
+              -95.94896031450533, 
+              36.13327000000101
+            ], 
+            [
+              -95.95819999999911, 
+              36.133160000002036
+            ], 
+            [
+              -95.95821999999855, 
+              36.138000000001576
+            ], 
+            [
+              -95.95441263044282, 
+              36.14048000000036
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Lewiston Gardens", 
+        "RegionID": "417968", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94039000290466, 
+              36.140550602585826
+            ], 
+            [
+              -95.9403795836338, 
+              36.1332699935436
+            ], 
+            [
+              -95.94896031450533, 
+              36.13327000000101
+            ], 
+            [
+              -95.95441263044282, 
+              36.14048000000036
+            ], 
+            [
+              -95.94039000290466, 
+              36.140550602585826
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Florence Park", 
+        "RegionID": "417969", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Sunrise Terrace", 
+        "RegionID": "417970", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Shannon Park", 
+        "RegionID": "417983", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.85973644964534, 
+              36.118965347133276
+            ], 
+            [
+              -95.8687953321715, 
+              36.11897000000177
+            ], 
+            [
+              -95.87015523707502, 
+              36.11895856415412
+            ], 
+            [
+              -95.87026283755031, 
+              36.13345764543762
+            ], 
+            [
+              -95.85984089864218, 
+              36.13345764543762
+            ], 
+            [
+              -95.85973644964534, 
+              36.118965347133276
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Longview Lake", 
+        "RegionID": "417984", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.85115942415221, 
+              36.14567267986299
+            ], 
+            [
+              -95.8555678535469, 
+              36.14796873683936
+            ], 
+            [
+              -95.85117291982328, 
+              36.147968739868936
+            ], 
+            [
+              -95.85115942415221, 
+              36.14567267986299
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Oakbrook Village", 
+        "RegionID": "417985", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.87256861649472, 
+              36.146160000000656
+            ], 
+            [
+              -95.8691850713368, 
+              36.14079000341281
+            ], 
+            [
+              -95.87026283755031, 
+              36.13345764543762
+            ], 
+            [
+              -95.8866899999993, 
+              36.13344000000211
+            ], 
+            [
+              -95.88668352441026, 
+              36.14796092175727
+            ], 
+            [
+              -95.87256861649472, 
+              36.146160000000656
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Mingo Valley", 
+        "RegionID": "417986", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Moeller Heights", 
+        "RegionID": "417987", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92650990819072, 
+              36.0638227326292
+            ], 
+            [
+              -95.92660438924996, 
+              36.06095709182917
+            ], 
+            [
+              -95.93072817355333, 
+              36.060960000001
+            ], 
+            [
+              -95.9305499999991, 
+              36.06487000000051
+            ], 
+            [
+              -95.92650990819072, 
+              36.0638227326292
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Richmond Hills", 
+        "RegionID": "418000", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.93550138172765, 
+              36.06446586517837
+            ], 
+            [
+              -95.93483999999977, 
+              36.060920000002135
+            ], 
+            [
+              -95.93650756394838, 
+              36.06091612194213
+            ], 
+            [
+              -95.93836614671456, 
+              36.060928818810396
+            ], 
+            [
+              -95.93550138172765, 
+              36.06446586517837
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Vienna Woods", 
+        "RegionID": "418001", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.93088488319601, 
+              36.06628755276599
+            ], 
+            [
+              -95.9305499999991, 
+              36.06487000000051
+            ], 
+            [
+              -95.93072817355333, 
+              36.060960000001
+            ], 
+            [
+              -95.93158575468672, 
+              36.060950067387516
+            ], 
+            [
+              -95.93483999999977, 
+              36.060920000002135
+            ], 
+            [
+              -95.93550138172765, 
+              36.06446586517837
+            ], 
+            [
+              -95.9355436624869, 
+              36.06629810643824
+            ], 
+            [
+              -95.93088488319601, 
+              36.06628755276599
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Windsor Park South", 
+        "RegionID": "418002", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Minshall Park", 
+        "RegionID": "418003", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.8954843755629, 
+              36.028521674844356
+            ], 
+            [
+              -95.89547835342162, 
+              36.0288001988809
+            ], 
+            [
+              -95.8905377574954, 
+              36.02935439012722
+            ], 
+            [
+              -95.8954843755629, 
+              36.028521674844356
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Ashton Hollow", 
+        "RegionID": "418017", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89091450985484, 
+              36.03186895554444
+            ], 
+            [
+              -95.8905377574954, 
+              36.02935439012722
+            ], 
+            [
+              -95.89547835342162, 
+              36.0288001988809
+            ], 
+            [
+              -95.89527203932028, 
+              36.03185000000135
+            ], 
+            [
+              -95.89091450985484, 
+              36.03186895554444
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "South Springs", 
+        "RegionID": "418018", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89839769795282, 
+              36.028521674844356
+            ], 
+            [
+              -95.89971015245611, 
+              36.02532389364718
+            ], 
+            [
+              -95.90423801557114, 
+              36.025968370514256
+            ], 
+            [
+              -95.90423999999966, 
+              36.028615422548356
+            ], 
+            [
+              -95.89842104836445, 
+              36.030442246214385
+            ], 
+            [
+              -95.89839769795282, 
+              36.028521674844356
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Heatherridge", 
+        "RegionID": "418019", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.90423814161858, 
+              36.02238243512723
+            ], 
+            [
+              -95.90424134796301, 
+              36.0209750156373
+            ], 
+            [
+              -95.90867575778279, 
+              36.02461073955052
+            ], 
+            [
+              -95.90423000000008, 
+              36.02506519530319
+            ], 
+            [
+              -95.90423814161858, 
+              36.02238243512723
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Mill Creek Pond", 
+        "RegionID": "418020", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91546908629469, 
+              36.01110334799895
+            ], 
+            [
+              -95.9154561857458, 
+              36.01373415334532
+            ], 
+            [
+              -95.91323965529106, 
+              36.01373415334532
+            ], 
+            [
+              -95.91546908629469, 
+              36.01110334799895
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Forest Pointe", 
+        "RegionID": "418034", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9177583240521, 
+              36.01011160811993
+            ], 
+            [
+              -95.91547398380082, 
+              36.01010460094109
+            ], 
+            [
+              -95.91548896423727, 
+              36.006469438692896
+            ], 
+            [
+              -95.91777516853124, 
+              36.00646284368178
+            ], 
+            [
+              -95.92224506292142, 
+              36.00646931241471
+            ], 
+            [
+              -95.92222973650972, 
+              36.01007347182634
+            ], 
+            [
+              -95.92222922636216, 
+              36.010116418166156
+            ], 
+            [
+              -95.9177583240521, 
+              36.01011160811993
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Southern Oaks Estates", 
+        "RegionID": "418035", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91777516853124, 
+              36.00646284368178
+            ], 
+            [
+              -95.91781599210456, 
+              36.00280214373452
+            ], 
+            [
+              -95.92224506292142, 
+              36.00646931241471
+            ], 
+            [
+              -95.91777516853124, 
+              36.00646284368178
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Hunters Bend", 
+        "RegionID": "418036", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91320578175713, 
+              36.00645016637937
+            ], 
+            [
+              -95.91322654812905, 
+              36.00280000000062
+            ], 
+            [
+              -95.91332231459748, 
+              36.0028007974978
+            ], 
+            [
+              -95.91777329190225, 
+              36.0028026155603
+            ], 
+            [
+              -95.91781599210456, 
+              36.00280214373452
+            ], 
+            [
+              -95.91777516853124, 
+              36.00646284368178
+            ], 
+            [
+              -95.91548896423727, 
+              36.006469438692896
+            ], 
+            [
+              -95.91320578175713, 
+              36.00645016637937
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Southern Woods Estates", 
+        "RegionID": "418037", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.93106244297525, 
+              36.05001305023816
+            ], 
+            [
+              -95.93103323346337, 
+              36.04637000000032
+            ], 
+            [
+              -95.93583082040718, 
+              36.04636000000074
+            ], 
+            [
+              -95.93997999999917, 
+              36.046380000002216
+            ], 
+            [
+              -95.93990439397462, 
+              36.05366352890595
+            ], 
+            [
+              -95.93106244297525, 
+              36.05001305023816
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Timbercrest", 
+        "RegionID": "418050", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92657413370895, 
+              36.046367207665426
+            ], 
+            [
+              -95.93103323346337, 
+              36.04637000000032
+            ], 
+            [
+              -95.93106244297525, 
+              36.05001305023816
+            ], 
+            [
+              -95.92657413370895, 
+              36.046367207665426
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Oak Forest South", 
+        "RegionID": "418051", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92660438924996, 
+              36.06095709182917
+            ], 
+            [
+              -95.93158575468672, 
+              36.060950067387516
+            ], 
+            [
+              -95.93072817355333, 
+              36.060960000001
+            ], 
+            [
+              -95.92660438924996, 
+              36.06095709182917
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Southridge Estates", 
+        "RegionID": "418054", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Sunwood Hills", 
+        "RegionID": "418067", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Eastland Acres", 
+        "RegionID": "418068", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Mayo Plaza", 
+        "RegionID": "418069", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.7975346055991, 
+              36.16223274860168
+            ], 
+            [
+              -95.7975399999995, 
+              36.13344000000211
+            ], 
+            [
+              -95.8332599999993, 
+              36.133452681721074
+            ], 
+            [
+              -95.8332599999993, 
+              36.14797000000031
+            ], 
+            [
+              -95.83334999999893, 
+              36.15812374636899
+            ], 
+            [
+              -95.7975346055991, 
+              36.16223274860168
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Tower Heights", 
+        "RegionID": "418070", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00113999999847, 
+              36.19147000000204
+            ], 
+            [
+              -95.99774992513541, 
+              36.187858170205196
+            ], 
+            [
+              -96.00472097268032, 
+              36.18462470339498
+            ], 
+            [
+              -96.00606999999941, 
+              36.19137000000087
+            ], 
+            [
+              -96.00472374755273, 
+              36.191430447320556
+            ], 
+            [
+              -96.00113999999847, 
+              36.19147000000204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Reservoir Hill", 
+        "RegionID": "418084", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00113999999847, 
+              36.19147000000204
+            ], 
+            [
+              -95.99774992513541, 
+              36.187858170205196
+            ], 
+            [
+              -96.00472097268032, 
+              36.18462470339498
+            ], 
+            [
+              -96.00606999999941, 
+              36.19137000000087
+            ], 
+            [
+              -96.00472374755273, 
+              36.191430447320556
+            ], 
+            [
+              -96.00113999999847, 
+              36.19147000000204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Reservoir Hill", 
+        "RegionID": "418084", 
+        "County": "Osage", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.98685000002145, 
+              36.17694000006175
+            ], 
+            [
+              -95.99362000003093, 
+              36.176929999723235
+            ], 
+            [
+              -95.9935999999997, 
+              36.18057913793901
+            ], 
+            [
+              -95.98685000002145, 
+              36.17694000006175
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Heritage Hills", 
+        "RegionID": "418085", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00113999999847, 
+              36.19147000000204
+            ], 
+            [
+              -96.00472374755273, 
+              36.191430447320556
+            ], 
+            [
+              -95.9935299999996, 
+              36.205920000001086
+            ], 
+            [
+              -96.00113999999847, 
+              36.19147000000204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Archer Heights", 
+        "RegionID": "418086", 
+        "County": "Osage", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00113999999847, 
+              36.19147000000204
+            ], 
+            [
+              -96.00472374755273, 
+              36.191430447320556
+            ], 
+            [
+              -95.9935299999996, 
+              36.205920000001086
+            ], 
+            [
+              -96.00113999999847, 
+              36.19147000000204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Archer Heights", 
+        "RegionID": "418086", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Eastridge", 
+        "RegionID": "268131", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "College Park", 
+        "RegionID": "270606", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.99265000029422, 
+              36.164280000168354
+            ], 
+            [
+              -95.99362000003093, 
+              36.176929999723235
+            ], 
+            [
+              -95.98685000002145, 
+              36.17694000006175
+            ], 
+            [
+              -95.98328511179035, 
+              36.17694956078356
+            ], 
+            [
+              -95.98327339722157, 
+              36.17694999965259
+            ], 
+            [
+              -95.99265000029422, 
+              36.164280000168354
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "University Park", 
+        "RegionID": "275822", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.05618707199308, 
+              36.15083266541525
+            ], 
+            [
+              -96.06522000000825, 
+              36.147965561908464
+            ], 
+            [
+              -96.06520000002268, 
+              36.16108000014801
+            ], 
+            [
+              -96.05618707199308, 
+              36.15083266541525
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Bruner Area", 
+        "RegionID": "417490", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.01091000025244, 
+              36.1713899996624
+            ], 
+            [
+              -96.01099999990434, 
+              36.16130000039643
+            ], 
+            [
+              -96.01542269477379, 
+              36.161269444286965
+            ], 
+            [
+              -96.01091000025244, 
+              36.1713899996624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Skyline Ridge", 
+        "RegionID": "417491", 
+        "County": "Osage", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Gillette Historic District", 
+        "RegionID": "417962", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92246079878757, 
+              36.140539881541685
+            ], 
+            [
+              -95.92251999999995, 
+              36.14779000000123
+            ], 
+            [
+              -95.91353999999954, 
+              36.1478700000011
+            ], 
+            [
+              -95.92246079878757, 
+              36.140539881541685
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Mid Tulsa", 
+        "RegionID": "417975", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9225099999985, 
+              36.16073000000199
+            ], 
+            [
+              -95.92251999999995, 
+              36.15912000000076
+            ], 
+            [
+              -95.92251999999995, 
+              36.14779000000123
+            ], 
+            [
+              -95.93145000000003, 
+              36.14781000000075
+            ], 
+            [
+              -95.94040000013233, 
+              36.14783000000809
+            ], 
+            [
+              -95.94027000043502, 
+              36.159600000273535
+            ], 
+            [
+              -95.94027000043502, 
+              36.16075999978616
+            ], 
+            [
+              -95.9225099999985, 
+              36.16073000000199
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Turner Park", 
+        "RegionID": "417976", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94916999999963, 
+              36.104300000001395
+            ], 
+            [
+              -95.95802366251858, 
+              36.10422118369964
+            ], 
+            [
+              -95.95810889161037, 
+              36.11151920746433
+            ], 
+            [
+              -95.94911999999914, 
+              36.111530000000265
+            ], 
+            [
+              -95.94916999999963, 
+              36.104300000001395
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Greater Oakview", 
+        "RegionID": "417977", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94019999999908, 
+              36.104310000001156
+            ], 
+            [
+              -95.94916999999963, 
+              36.104300000001395
+            ], 
+            [
+              -95.94911999999914, 
+              36.111530000000265
+            ], 
+            [
+              -95.94550841461948, 
+              36.118820000002145
+            ], 
+            [
+              -95.94019999999908, 
+              36.104310000001156
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Ranch Acres", 
+        "RegionID": "417978", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Southern Plaza", 
+        "RegionID": "417992", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89321041986273, 
+              36.08988000000181
+            ], 
+            [
+              -95.89320034857944, 
+              36.08264000000105
+            ], 
+            [
+              -95.90433999999905, 
+              36.08077464763017
+            ], 
+            [
+              -95.90440999999916, 
+              36.08987000000152
+            ], 
+            [
+              -95.89321041986273, 
+              36.08988000000181
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Sungate", 
+        "RegionID": "417993", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.90433999999905, 
+              36.08077464763017
+            ], 
+            [
+              -95.90431999999963, 
+              36.075370000001
+            ], 
+            [
+              -95.90874633907427, 
+              36.07535721461474
+            ], 
+            [
+              -95.9132523570086, 
+              36.07535129511518
+            ], 
+            [
+              -95.91339999999933, 
+              36.075350000000945
+            ], 
+            [
+              -95.9133573544875, 
+              36.08987000000152
+            ], 
+            [
+              -95.90440999999916, 
+              36.08987000000152
+            ], 
+            [
+              -95.90433999999905, 
+              36.08077464763017
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Lafortune Park Plaza - Key", 
+        "RegionID": "417994", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94011999999913, 
+              36.07712000000049
+            ], 
+            [
+              -95.94010999999954, 
+              36.075300000000716
+            ], 
+            [
+              -95.9579799999992, 
+              36.07612000000195
+            ], 
+            [
+              -95.94011999999913, 
+              36.07712000000049
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "South Creekside", 
+        "RegionID": "417995", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Hampton South", 
+        "RegionID": "418009", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "South Towne Square", 
+        "RegionID": "418010", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Shadow Ridge", 
+        "RegionID": "418011", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Ridge Point", 
+        "RegionID": "418012", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91321188252688, 
+              36.02541858249275
+            ], 
+            [
+              -95.91706804019003, 
+              36.025376360048185
+            ], 
+            [
+              -95.9170531691252, 
+              36.030062874063624
+            ], 
+            [
+              -95.91700999999897, 
+              36.031860000001465
+            ], 
+            [
+              -95.91321188252688, 
+              36.02541858249275
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Darlington South", 
+        "RegionID": "418025", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91700999999897, 
+              36.031860000001465
+            ], 
+            [
+              -95.9170531691252, 
+              36.030062874063624
+            ], 
+            [
+              -95.91912557277087, 
+              36.03186000000164
+            ], 
+            [
+              -95.91715632753653, 
+              36.03186000000164
+            ], 
+            [
+              -95.91700999999897, 
+              36.031860000001465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Braden Park", 
+        "RegionID": "418026", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Woodhill Hollow", 
+        "RegionID": "418027", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91204559699047, 
+              36.03868000000194
+            ], 
+            [
+              -95.91219311609443, 
+              36.03185793864185
+            ], 
+            [
+              -95.9171431717828, 
+              36.035510721662085
+            ], 
+            [
+              -95.91911903025883, 
+              36.03551072166191
+            ], 
+            [
+              -95.91204559699047, 
+              36.03868000000194
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Southern Pointe", 
+        "RegionID": "418028", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Hampton Oaks", 
+        "RegionID": "418042", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Quail Point", 
+        "RegionID": "418043", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Knollwood Estates", 
+        "RegionID": "418044", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92661193235051, 
+              36.02099651792152
+            ], 
+            [
+              -95.92663045835258, 
+              36.017344393531765
+            ], 
+            [
+              -95.93113242359424, 
+              36.01736986968611
+            ], 
+            [
+              -95.93112691699825, 
+              36.019599579426504
+            ], 
+            [
+              -95.9311234328761, 
+              36.02101035687976
+            ], 
+            [
+              -95.92661193235051, 
+              36.02099651792152
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Woodlar", 
+        "RegionID": "418045", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Timberlane Hills", 
+        "RegionID": "418059", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94443307497957, 
+              36.03915204714873
+            ], 
+            [
+              -95.94895998493216, 
+              36.03916374186202
+            ], 
+            [
+              -95.94892732153964, 
+              36.042789102981594
+            ], 
+            [
+              -95.94632761853237, 
+              36.042789102981594
+            ], 
+            [
+              -95.94443307497957, 
+              36.03915204714873
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "The Timbers", 
+        "RegionID": "418060", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Delaware Crossing", 
+        "RegionID": "418061", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "College Park II", 
+        "RegionID": "418062", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Layman - Van Acre", 
+        "RegionID": "418075", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.88671512666404, 
+              36.16229733603344
+            ], 
+            [
+              -95.90455630149124, 
+              36.16301657314189
+            ], 
+            [
+              -95.90455999999897, 
+              36.177110000000674
+            ], 
+            [
+              -95.88669496330604, 
+              36.177060000000445
+            ], 
+            [
+              -95.88671512666404, 
+              36.16229733603344
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Mckinley Mitchell", 
+        "RegionID": "418076", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92248999999897, 
+              36.177110000000674
+            ], 
+            [
+              -95.9225099999985, 
+              36.16073000000199
+            ], 
+            [
+              -95.94027000043502, 
+              36.16075999978616
+            ], 
+            [
+              -95.94027000043502, 
+              36.17452706602677
+            ], 
+            [
+              -95.940269999999, 
+              36.17478000000116
+            ], 
+            [
+              -95.9224800324172, 
+              36.180231718165174
+            ], 
+            [
+              -95.92248999999897, 
+              36.177110000000674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Sequoyah", 
+        "RegionID": "418077", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92248453988857, 
+              36.184358790179445
+            ], 
+            [
+              -95.94032999999945, 
+              36.1844000000006
+            ], 
+            [
+              -95.94034999999887, 
+              36.191600000000186
+            ], 
+            [
+              -95.92246999999945, 
+              36.19161000000226
+            ], 
+            [
+              -95.92248453988857, 
+              36.184358790179445
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Xyler", 
+        "RegionID": "418078", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92248453988857, 
+              36.184358790179445
+            ], 
+            [
+              -95.9224800324172, 
+              36.180231718165174
+            ], 
+            [
+              -95.940269999999, 
+              36.17478000000116
+            ], 
+            [
+              -95.94032999999945, 
+              36.177140000001735
+            ], 
+            [
+              -95.94032999999945, 
+              36.182000000000976
+            ], 
+            [
+              -95.94032999999945, 
+              36.1844000000006
+            ], 
+            [
+              -95.92248453988857, 
+              36.184358790179445
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Louisville Heights", 
+        "RegionID": "418079", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Red Fork - Park Grove", 
+        "RegionID": "418092", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Red Fork - Lookout Mountain", 
+        "RegionID": "418093", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Park Valley - Red Fork", 
+        "RegionID": "418094", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Mountain Manor", 
+        "RegionID": "418095", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.0292634374788, 
+              36.16119004273479
+            ], 
+            [
+              -96.04726000028386, 
+              36.16108999980707
+            ], 
+            [
+              -96.05591307232417, 
+              36.1976510022296
+            ], 
+            [
+              -96.02884115808743, 
+              36.198135343191424
+            ], 
+            [
+              -96.0292634374788, 
+              36.16119004273479
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Harlow Creek", 
+        "RegionID": "418089", 
+        "County": "Osage", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.0047746266185, 
+              36.14343104544197
+            ], 
+            [
+              -95.99317082016456, 
+              36.13352815012451
+            ], 
+            [
+              -95.98949212244807, 
+              36.12602524542929
+            ], 
+            [
+              -96.01938299962372, 
+              36.13102499967084
+            ], 
+            [
+              -96.01084612243606, 
+              36.14618714818391
+            ], 
+            [
+              -96.0047746266185, 
+              36.14343104544197
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Eugene Field", 
+        "RegionID": "418091", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Woodview Heights", 
+        "RegionID": "418096", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.02462548076572, 
+              36.07530669871874
+            ], 
+            [
+              -96.02286997114733, 
+              36.075300000000894
+            ], 
+            [
+              -96.01829653261784, 
+              36.06825803809752
+            ], 
+            [
+              -96.02518976266737, 
+              36.07530999861261
+            ], 
+            [
+              -96.02462548076572, 
+              36.07530669871874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Golf Estates", 
+        "RegionID": "418098", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Avalon Lakes/Mill Creek Pond", 
+        "RegionID": "762760", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Stone Creek", 
+        "RegionID": "762792", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.36064612399997, 
+              35.478545678000046
+            ], 
+            [
+              -97.35764188999997, 
+              35.47857776600006
+            ], 
+            [
+              -97.35489637299997, 
+              35.46766965000006
+            ], 
+            [
+              -97.36064612399997, 
+              35.478545678000046
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Omni", 
+        "RegionID": "762794", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.38857247799996, 
+              35.46832107200004
+            ], 
+            [
+              -97.38855373699994, 
+              35.47860512900007
+            ], 
+            [
+              -97.38688859099994, 
+              35.47858990100008
+            ], 
+            [
+              -97.38375722, 
+              35.471346822000044
+            ], 
+            [
+              -97.38857247799996, 
+              35.46832107200004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Holman West", 
+        "RegionID": "762799", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.40608966699995, 
+              35.44974613800008
+            ], 
+            [
+              -97.424013, 
+              35.460561
+            ], 
+            [
+              -97.40620388099995, 
+              35.46413711800005
+            ], 
+            [
+              -97.40608966699995, 
+              35.44974613800008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Ranchets", 
+        "RegionID": "762801", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.52987666899998, 
+              35.52763090800005
+            ], 
+            [
+              -97.53475102799996, 
+              35.524275517000035
+            ], 
+            [
+              -97.54725948799995, 
+              35.514290413000026
+            ], 
+            [
+              -97.56559966299994, 
+              35.51137290500003
+            ], 
+            [
+              -97.56564369199998, 
+              35.53652247800005
+            ], 
+            [
+              -97.52987666899998, 
+              35.52763090800005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Belle Isle", 
+        "RegionID": "763269", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51445503299999, 
+              35.52739315300005
+            ], 
+            [
+              -97.51645668599997, 
+              35.515242898000054
+            ], 
+            [
+              -97.53441942399996, 
+              35.51510627000005
+            ], 
+            [
+              -97.53475102799996, 
+              35.524275517000035
+            ], 
+            [
+              -97.52987666899998, 
+              35.52763090800005
+            ], 
+            [
+              -97.51445503299999, 
+              35.52739315300005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Edgemere Heights", 
+        "RegionID": "763276", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51466967599998, 
+              35.50837894400007
+            ], 
+            [
+              -97.51374715899999, 
+              35.49666354000004
+            ], 
+            [
+              -97.51347685199994, 
+              35.495460485000024
+            ], 
+            [
+              -97.51303522399996, 
+              35.494386872000064
+            ], 
+            [
+              -97.51240323999997, 
+              35.49322188800005
+            ], 
+            [
+              -97.5258323799999, 
+              35.49326745400003
+            ], 
+            [
+              -97.52543663299997, 
+              35.50781637000006
+            ], 
+            [
+              -97.52319004999998, 
+              35.507773609000026
+            ], 
+            [
+              -97.51466967599998, 
+              35.50837894400007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Paseo Arts District", 
+        "RegionID": "763278", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51625854099996, 
+              35.47402198900005
+            ], 
+            [
+              -97.51637780999994, 
+              35.47194682800006
+            ], 
+            [
+              -97.51948754899996, 
+              35.46886129400008
+            ], 
+            [
+              -97.51797421099997, 
+              35.468835596000076
+            ], 
+            [
+              -97.51629966599995, 
+              35.46426278700005
+            ], 
+            [
+              -97.52113652599996, 
+              35.46426106000007
+            ], 
+            [
+              -97.52125075299995, 
+              35.46645606300007
+            ], 
+            [
+              -97.52571878799995, 
+              35.46886028100005
+            ], 
+            [
+              -97.52129430499997, 
+              35.474126686000034
+            ], 
+            [
+              -97.51625854099996, 
+              35.47402198900005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Arts District", 
+        "RegionID": "763285", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51006266999997, 
+              35.48239416900003
+            ], 
+            [
+              -97.50894819399997, 
+              35.47598609000005
+            ], 
+            [
+              -97.51227620999998, 
+              35.471844461000046
+            ], 
+            [
+              -97.51637780999994, 
+              35.47194682800006
+            ], 
+            [
+              -97.51625854099996, 
+              35.47402198900005
+            ], 
+            [
+              -97.51595635699994, 
+              35.482378940000046
+            ], 
+            [
+              -97.51006266999997, 
+              35.48239416900003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Automobile Alley", 
+        "RegionID": "763287", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.57316229699995, 
+              35.45518267700004
+            ], 
+            [
+              -97.57079459799996, 
+              35.449722863000034
+            ], 
+            [
+              -97.58043847599998, 
+              35.41715144600005
+            ], 
+            [
+              -97.61895597099999, 
+              35.42336150800003
+            ], 
+            [
+              -97.618919, 
+              35.507857
+            ], 
+            [
+              -97.57639314499994, 
+              35.511305521000054
+            ], 
+            [
+              -97.57316229699995, 
+              35.45518267700004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Meridian Avenue Corridor", 
+        "RegionID": "763369", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Chesser Park", 
+        "RegionID": "762787", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Atkinson Park", 
+        "RegionID": "762788", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Rhapsody/Willow Wind", 
+        "RegionID": "762789", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Windsong", 
+        "RegionID": "762790", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51006266999997, 
+              35.48239416900003
+            ], 
+            [
+              -97.51164553999996, 
+              35.49178656500004
+            ], 
+            [
+              -97.51240323999997, 
+              35.49322188800005
+            ], 
+            [
+              -97.49450252499997, 
+              35.49318784700006
+            ], 
+            [
+              -97.48960503999996, 
+              35.48314216400007
+            ], 
+            [
+              -97.51006266999997, 
+              35.48239416900003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Lincoln Terrace", 
+        "RegionID": "763271", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.49436492199999, 
+              35.50777339200005
+            ], 
+            [
+              -97.51466967599998, 
+              35.50837894400007
+            ], 
+            [
+              -97.51645668599997, 
+              35.515242898000054
+            ], 
+            [
+              -97.51445503299999, 
+              35.52739315300005
+            ], 
+            [
+              -97.46074211799998, 
+              35.538819844000045
+            ], 
+            [
+              -97.46044580799997, 
+              35.50772352400003
+            ], 
+            [
+              -97.49436492199999, 
+              35.50777339200005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Adventure District", 
+        "RegionID": "763272", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.53013220699995, 
+              35.44463690200007
+            ], 
+            [
+              -97.57079459799996, 
+              35.449722863000034
+            ], 
+            [
+              -97.57316229699995, 
+              35.45518267700004
+            ], 
+            [
+              -97.54257964299995, 
+              35.46000346100004
+            ], 
+            [
+              -97.53013220699995, 
+              35.44463690200007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Stockyards City", 
+        "RegionID": "763273", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Capitol Hill", 
+        "RegionID": "763274", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.54768779099999, 
+              35.50775165400006
+            ], 
+            [
+              -97.54725948799995, 
+              35.514290413000026
+            ], 
+            [
+              -97.53475102799996, 
+              35.524275517000035
+            ], 
+            [
+              -97.53441942399996, 
+              35.51510627000005
+            ], 
+            [
+              -97.53436019199995, 
+              35.507796452000036
+            ], 
+            [
+              -97.54768779099999, 
+              35.50775165400006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Northwest 39th Street Enclave", 
+        "RegionID": "763275", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.50894819399997, 
+              35.47598609000005
+            ], 
+            [
+              -97.50536137699999, 
+              35.47180613200004
+            ], 
+            [
+              -97.51227620999998, 
+              35.471844461000046
+            ], 
+            [
+              -97.50894819399997, 
+              35.47598609000005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Flatiron District", 
+        "RegionID": "763288", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.50536137699999, 
+              35.47180613200004
+            ], 
+            [
+              -97.50152158499998, 
+              35.46778765500005
+            ], 
+            [
+              -97.51232871699995, 
+              35.470461027000056
+            ], 
+            [
+              -97.51227620999998, 
+              35.471844461000046
+            ], 
+            [
+              -97.50536137699999, 
+              35.47180613200004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Deep Deuce", 
+        "RegionID": "763289", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.57436391399995, 
+              35.40634057600005
+            ], 
+            [
+              -97.49400951599995, 
+              35.40634057600005
+            ], 
+            [
+              -97.49503268399997, 
+              35.37728735700006
+            ], 
+            [
+              -97.57491118999997, 
+              35.37719217800003
+            ], 
+            [
+              -97.57436391399995, 
+              35.40634057600005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "I-240 Corridor", 
+        "RegionID": "763457", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Woodridge", 
+        "RegionID": "272029", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.95810889161037, 
+              36.11151920746433
+            ], 
+            [
+              -95.95802366251858, 
+              36.10422118369964
+            ], 
+            [
+              -95.95798999999896, 
+              36.08977000000124
+            ], 
+            [
+              -95.98802999999839, 
+              36.0899500000021
+            ], 
+            [
+              -95.98779899701364, 
+              36.11878718467693
+            ], 
+            [
+              -95.97579000012011, 
+              36.118860000083615
+            ], 
+            [
+              -95.95810889161037, 
+              36.11151920746433
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Brookside", 
+        "RegionID": "273069", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Eagle Ridge", 
+        "RegionID": "273526", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Northgate", 
+        "RegionID": "276475", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91353999999954, 
+              36.1478700000011
+            ], 
+            [
+              -95.92251999999995, 
+              36.14779000000123
+            ], 
+            [
+              -95.92251999999995, 
+              36.15912000000076
+            ], 
+            [
+              -95.91446912619908, 
+              36.16057388786988
+            ], 
+            [
+              -95.91346999999944, 
+              36.16121000000085
+            ], 
+            [
+              -95.91353999999954, 
+              36.1478700000011
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "White City", 
+        "RegionID": "411456", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Carriage Trail", 
+        "RegionID": "418087", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.35764188999997, 
+              35.47857776600006
+            ], 
+            [
+              -97.36064612399997, 
+              35.478545678000046
+            ], 
+            [
+              -97.36651632799999, 
+              35.489576586000055
+            ], 
+            [
+              -97.35764188999997, 
+              35.47857776600006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Telstar", 
+        "RegionID": "762795", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Royal Meadows", 
+        "RegionID": "762796", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Quail Ridge", 
+        "RegionID": "762797", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.38369767999995, 
+              35.478577288000054
+            ], 
+            [
+              -97.38375722, 
+              35.471346822000044
+            ], 
+            [
+              -97.38688859099994, 
+              35.47858990100008
+            ], 
+            [
+              -97.38422092799999, 
+              35.47857935700006
+            ], 
+            [
+              -97.38369767999995, 
+              35.478577288000054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Holman East", 
+        "RegionID": "762798", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51625854099996, 
+              35.47402198900005
+            ], 
+            [
+              -97.52129430499997, 
+              35.474126686000034
+            ], 
+            [
+              -97.52870301899998, 
+              35.478760145000024
+            ], 
+            [
+              -97.52967897799994, 
+              35.48238113300005
+            ], 
+            [
+              -97.51595635699994, 
+              35.482378940000046
+            ], 
+            [
+              -97.51625854099996, 
+              35.47402198900005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Cottage District", 
+        "RegionID": "763280", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51240323999997, 
+              35.49322188800005
+            ], 
+            [
+              -97.51164553999996, 
+              35.49178656500004
+            ], 
+            [
+              -97.53007433599998, 
+              35.48597535300007
+            ], 
+            [
+              -97.53165372499996, 
+              35.49323332800003
+            ], 
+            [
+              -97.5258323799999, 
+              35.49326745400003
+            ], 
+            [
+              -97.51240323999997, 
+              35.49322188800005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Mesta Park", 
+        "RegionID": "763281", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.52870301899998, 
+              35.478760145000024
+            ], 
+            [
+              -97.54771223099999, 
+              35.48596819900007
+            ], 
+            [
+              -97.53007433599998, 
+              35.48597535300007
+            ], 
+            [
+              -97.52990226699995, 
+              35.48297179100007
+            ], 
+            [
+              -97.52967897799994, 
+              35.48238113300005
+            ], 
+            [
+              -97.52870301899998, 
+              35.478760145000024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Classen Ten Penn", 
+        "RegionID": "763282", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.53165372499996, 
+              35.49323332800003
+            ], 
+            [
+              -97.53007433599998, 
+              35.48597535300007
+            ], 
+            [
+              -97.54771223099999, 
+              35.48596819900007
+            ], 
+            [
+              -97.54771223099999, 
+              35.49327139900004
+            ], 
+            [
+              -97.53165372499996, 
+              35.49323332800003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Gatewood UCD", 
+        "RegionID": "763283", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Suburban Hills", 
+        "RegionID": "417481", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.94027000043502, 
+              36.16075999978616
+            ], 
+            [
+              -95.94027000043502, 
+              36.159600000273535
+            ], 
+            [
+              -95.95814999996362, 
+              36.16075999978598
+            ], 
+            [
+              -95.95818000033523, 
+              36.14778999997245
+            ], 
+            [
+              -95.96720835095061, 
+              36.14787193968915
+            ], 
+            [
+              -95.96717000026798, 
+              36.155669999877844
+            ], 
+            [
+              -95.96714566461378, 
+              36.16512468118948
+            ], 
+            [
+              -95.95822036921449, 
+              36.16817023793992
+            ], 
+            [
+              -95.94027000043502, 
+              36.17452706602677
+            ], 
+            [
+              -95.94027000043502, 
+              36.16075999978616
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Kendall - Whittier", 
+        "RegionID": "417486", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.00707000027178, 
+              36.16128999995755
+            ], 
+            [
+              -96.00700835415121, 
+              36.15654038765463
+            ], 
+            [
+              -96.0203799997166, 
+              36.15679999980596
+            ], 
+            [
+              -96.01988999970901, 
+              36.16122999990161
+            ], 
+            [
+              -96.01542269477379, 
+              36.161269444286965
+            ], 
+            [
+              -96.01099999990434, 
+              36.16130000039643
+            ], 
+            [
+              -96.00707000027178, 
+              36.16128999995755
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Easton Heights", 
+        "RegionID": "417488", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9672479357536, 
+              36.14420241942941
+            ], 
+            [
+              -95.95818770106, 
+              36.144160749470196
+            ], 
+            [
+              -95.94039999999937, 
+              36.14419000000108
+            ], 
+            [
+              -95.94039000290466, 
+              36.140550602585826
+            ], 
+            [
+              -95.95441263044282, 
+              36.14048000000036
+            ], 
+            [
+              -95.95821999999855, 
+              36.138000000001576
+            ], 
+            [
+              -95.95939999999972, 
+              36.1380000000014
+            ], 
+            [
+              -95.96080999999862, 
+              36.1380000000014
+            ], 
+            [
+              -95.96713999997968, 
+              36.138040002291056
+            ], 
+            [
+              -95.97562000037765, 
+              36.140629999980085
+            ], 
+            [
+              -95.9756099999442, 
+              36.14307000001553
+            ], 
+            [
+              -95.97559999999967, 
+              36.14426000000119
+            ], 
+            [
+              -95.9672479357536, 
+              36.14420241942941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Cherry Street", 
+        "RegionID": "417963", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.96721987996311, 
+              36.14786012250157
+            ], 
+            [
+              -95.9672479357536, 
+              36.14420241942941
+            ], 
+            [
+              -95.97559999999967, 
+              36.14426000000119
+            ], 
+            [
+              -95.97559976570416, 
+              36.14789999746499
+            ], 
+            [
+              -95.96721987996311, 
+              36.14786012250157
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Forest Orchard", 
+        "RegionID": "417965", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92250516098993, 
+              36.12607583274691
+            ], 
+            [
+              -95.92244343034106, 
+              36.12244532856483
+            ], 
+            [
+              -95.9225099999985, 
+              36.11959294025759
+            ], 
+            [
+              -95.93145000000003, 
+              36.132700000000746
+            ], 
+            [
+              -95.92248992604293, 
+              36.133304273706486
+            ], 
+            [
+              -95.92250516098993, 
+              36.12607583274691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Mayo Meadow", 
+        "RegionID": "417972", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92251999999995, 
+              36.14779000000123
+            ], 
+            [
+              -95.92246079878757, 
+              36.140539881541685
+            ], 
+            [
+              -95.93145000000003, 
+              36.14781000000075
+            ], 
+            [
+              -95.92251999999995, 
+              36.14779000000123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Fair Heights", 
+        "RegionID": "417974", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9222899999986, 
+              36.09534372784619
+            ], 
+            [
+              -95.94014999999841, 
+              36.08981000000188
+            ], 
+            [
+              -95.94019999999908, 
+              36.104310000001156
+            ], 
+            [
+              -95.92233999999908, 
+              36.10437000000168
+            ], 
+            [
+              -95.9222899999986, 
+              36.09534372784619
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Patrick Henry", 
+        "RegionID": "417979", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Mockingbird Lake", 
+        "RegionID": "417981", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89560999999954, 
+              36.133430000001816
+            ], 
+            [
+              -95.9045799999984, 
+              36.13341000000123
+            ], 
+            [
+              -95.89560991544708, 
+              36.14069000000068
+            ], 
+            [
+              -95.89560999999954, 
+              36.133430000001816
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Leisure Lanes", 
+        "RegionID": "417988", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9222899999986, 
+              36.09534372784619
+            ], 
+            [
+              -95.92233999999908, 
+              36.10437000000168
+            ], 
+            [
+              -95.9093999999985, 
+              36.1043700000015
+            ], 
+            [
+              -95.9222899999986, 
+              36.09534372784619
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Max Campbell", 
+        "RegionID": "417990", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.93112576957024, 
+              36.07174044868817
+            ], 
+            [
+              -95.93560370918712, 
+              36.071740448688345
+            ], 
+            [
+              -95.93564259701155, 
+              36.075300000000894
+            ], 
+            [
+              -95.93115683609204, 
+              36.07530191073007
+            ], 
+            [
+              -95.93112576957024, 
+              36.07174044868817
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Braeswood", 
+        "RegionID": "417997", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.93112576957024, 
+              36.07174044868817
+            ], 
+            [
+              -95.9305799999983, 
+              36.067830000000285
+            ], 
+            [
+              -95.93088488319601, 
+              36.06628755276599
+            ], 
+            [
+              -95.9355436624869, 
+              36.06629810643824
+            ], 
+            [
+              -95.93560370918712, 
+              36.071740448688345
+            ], 
+            [
+              -95.93112576957024, 
+              36.07174044868817
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Point South", 
+        "RegionID": "417999", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.8909067791217, 
+              36.060839316088185
+            ], 
+            [
+              -95.9042799999987, 
+              36.06083000000037
+            ], 
+            [
+              -95.9042799999987, 
+              36.06813665563557
+            ], 
+            [
+              -95.8909067791217, 
+              36.060839316088185
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Park Plaza South", 
+        "RegionID": "418004", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Executive Estates", 
+        "RegionID": "418006", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Burning Tree", 
+        "RegionID": "418008", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.86853402673465, 
+              36.024701247662634
+            ], 
+            [
+              -95.86852900011358, 
+              36.01760600005061
+            ], 
+            [
+              -95.87743490204666, 
+              36.01762732096507
+            ], 
+            [
+              -95.87750937205362, 
+              36.025111556689566
+            ], 
+            [
+              -95.86853402673465, 
+              36.024701247662634
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Cedar Ridge Park", 
+        "RegionID": "418013", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89091450985484, 
+              36.03186895554444
+            ], 
+            [
+              -95.89527203932028, 
+              36.03185000000135
+            ], 
+            [
+              -95.89843806607117, 
+              36.03184195258706
+            ], 
+            [
+              -95.90424999999952, 
+              36.03912936196043
+            ], 
+            [
+              -95.89529867664861, 
+              36.04074691362424
+            ], 
+            [
+              -95.89026758299262, 
+              36.042559477559806
+            ], 
+            [
+              -95.89091450985484, 
+              36.03186895554444
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Chimney Hills", 
+        "RegionID": "418015", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91767775963119, 
+              36.02100235288212
+            ], 
+            [
+              -95.91768590983551, 
+              36.01735921155662
+            ], 
+            [
+              -95.91993224605015, 
+              36.01735590888541
+            ], 
+            [
+              -95.92216999999958, 
+              36.01918018739305
+            ], 
+            [
+              -95.92216711472508, 
+              36.02101433230349
+            ], 
+            [
+              -95.91767775963119, 
+              36.02100235288212
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Leisure Estates", 
+        "RegionID": "418022", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.90423999999966, 
+              36.028615422548356
+            ], 
+            [
+              -95.90423801557114, 
+              36.025968370514256
+            ], 
+            [
+              -95.90867846955591, 
+              36.02587391147136
+            ], 
+            [
+              -95.90876419678408, 
+              36.02586574697348
+            ], 
+            [
+              -95.90423999999966, 
+              36.028615422548356
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Sheridan South", 
+        "RegionID": "418024", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.89529505904923, 
+              36.017319317250625
+            ], 
+            [
+              -95.89527235508181, 
+              36.01370463419677
+            ], 
+            [
+              -95.89644143403733, 
+              36.017330000000776
+            ], 
+            [
+              -95.89529505904923, 
+              36.017319317250625
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Windsor Woods", 
+        "RegionID": "418029", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Forest Trails", 
+        "RegionID": "418031", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.91546908629469, 
+              36.01110334799895
+            ], 
+            [
+              -95.91547398380082, 
+              36.01010460094109
+            ], 
+            [
+              -95.9177583240521, 
+              36.01011160811993
+            ], 
+            [
+              -95.91771247532772, 
+              36.01373415334532
+            ], 
+            [
+              -95.9154561857458, 
+              36.01373415334532
+            ], 
+            [
+              -95.91546908629469, 
+              36.01110334799895
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Wexford Estates", 
+        "RegionID": "418033", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Preston Woods", 
+        "RegionID": "418038", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.90881276966384, 
+              35.9956200000018
+            ], 
+            [
+              -95.91332231459748, 
+              35.99568817501588
+            ], 
+            [
+              -95.91332231459758, 
+              35.99920468544344
+            ], 
+            [
+              -95.90878940414605, 
+              35.99920468544344
+            ], 
+            [
+              -95.90881276966384, 
+              35.9956200000018
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Estates of Forest Park", 
+        "RegionID": "418040", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.92216711472508, 
+              36.02101433230349
+            ], 
+            [
+              -95.92661193235051, 
+              36.02099651792152
+            ], 
+            [
+              -95.9311234328761, 
+              36.02101035687976
+            ], 
+            [
+              -95.93108812887613, 
+              36.021928606950944
+            ], 
+            [
+              -95.92217999999944, 
+              36.025490896911556
+            ], 
+            [
+              -95.92216711472508, 
+              36.02101433230349
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Hunter's Pointe", 
+        "RegionID": "418047", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.93105906295294, 
+              36.03914557779799
+            ], 
+            [
+              -95.93401403323048, 
+              36.039148090648716
+            ], 
+            [
+              -95.93677731439516, 
+              36.039148087778834
+            ], 
+            [
+              -95.93583082040718, 
+              36.04636000000074
+            ], 
+            [
+              -95.93103323346337, 
+              36.04637000000032
+            ], 
+            [
+              -95.93105906295294, 
+              36.03914557779799
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Forest Creek", 
+        "RegionID": "418049", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Saint Thomas Square", 
+        "RegionID": "418056", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "San Souci", 
+        "RegionID": "418058", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Delaware Pointe", 
+        "RegionID": "418063", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Park Plaza East", 
+        "RegionID": "418065", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.84222912135799, 
+              36.15199283043815
+            ], 
+            [
+              -95.8479243701717, 
+              36.14797417274264
+            ], 
+            [
+              -95.85117291982328, 
+              36.147968739868936
+            ], 
+            [
+              -95.85117999999964, 
+              36.16065000000159
+            ], 
+            [
+              -95.84222912135799, 
+              36.15199283043815
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Western Village", 
+        "RegionID": "418072", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.88671512666404, 
+              36.16229733603344
+            ], 
+            [
+              -95.88668352441026, 
+              36.14796092175727
+            ], 
+            [
+              -95.9045799999984, 
+              36.14792000000133
+            ], 
+            [
+              -95.90455666032997, 
+              36.162973245469416
+            ], 
+            [
+              -95.90455630149124, 
+              36.16301657314189
+            ], 
+            [
+              -95.88671512666404, 
+              36.16229733603344
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "McClure Park", 
+        "RegionID": "418074", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9975067045338, 
+              36.1642800000012
+            ], 
+            [
+              -96.00070319535472, 
+              36.16241000000084
+            ], 
+            [
+              -96.00073995233298, 
+              36.17152999982036
+            ], 
+            [
+              -95.9975067045338, 
+              36.1642800000012
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Brady Heights", 
+        "RegionID": "418081", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9935999999997, 
+              36.18057913793901
+            ], 
+            [
+              -95.99362000003093, 
+              36.176929999723235
+            ], 
+            [
+              -96.0008699996943, 
+              36.17694000009141
+            ], 
+            [
+              -96.00472097268032, 
+              36.18462470339498
+            ], 
+            [
+              -95.99774992513541, 
+              36.187858170205196
+            ], 
+            [
+              -95.9935999999997, 
+              36.18057913793901
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Melrose Place", 
+        "RegionID": "418083", 
+        "County": "Osage", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.9935999999997, 
+              36.18057913793901
+            ], 
+            [
+              -95.99362000003093, 
+              36.176929999723235
+            ], 
+            [
+              -96.0008699996943, 
+              36.17694000009141
+            ], 
+            [
+              -96.00472097268032, 
+              36.18462470339498
+            ], 
+            [
+              -95.99774992513541, 
+              36.187858170205196
+            ], 
+            [
+              -95.9935999999997, 
+              36.18057913793901
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Melrose Place", 
+        "RegionID": "418083", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Sharon Heights", 
+        "RegionID": "418088", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "Lefko Hill", 
+        "RegionID": "418090", 
+        "County": "Osage", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.02518976266737, 
+              36.07530999861261
+            ], 
+            [
+              -96.01829653261784, 
+              36.06825803809752
+            ], 
+            [
+              -96.02286997114733, 
+              36.075300000000894
+            ], 
+            [
+              -96.01169999999904, 
+              36.061040000000695
+            ], 
+            [
+              -96.02954195653328, 
+              36.0609506218162
+            ], 
+            [
+              -96.0295814150142, 
+              36.07531844528548
+            ], 
+            [
+              -96.02518976266737, 
+              36.07530999861261
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Tulsa", 
+        "Name": "West Highlands", 
+        "RegionID": "418097", 
+        "County": "Tulsa", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.40214529799994, 
+              35.449682522000046
+            ], 
+            [
+              -97.39658310499999, 
+              35.449677621000035
+            ], 
+            [
+              -97.38848632099996, 
+              35.44967048700005
+            ], 
+            [
+              -97.38848246599997, 
+              35.44445482000003
+            ], 
+            [
+              -97.39289123399999, 
+              35.43523156800006
+            ], 
+            [
+              -97.40608966699995, 
+              35.44974613800008
+            ], 
+            [
+              -97.40214529799994, 
+              35.449682522000046
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Atkinson Heights", 
+        "RegionID": "762786", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Oakwood East", 
+        "RegionID": "762791", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Windmill Farms", 
+        "RegionID": "762793", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.40620388099995, 
+              35.46413711800005
+            ], 
+            [
+              -97.40291400199999, 
+              35.46409250000005
+            ], 
+            [
+              -97.39426444399999, 
+              35.464080899000066
+            ], 
+            [
+              -97.38859077899997, 
+              35.464043383000046
+            ], 
+            [
+              -97.38850211499994, 
+              35.451843601000064
+            ], 
+            [
+              -97.38848632099996, 
+              35.44967048700005
+            ], 
+            [
+              -97.39658310499999, 
+              35.449677621000035
+            ], 
+            [
+              -97.40214529799994, 
+              35.449682522000046
+            ], 
+            [
+              -97.40608966699995, 
+              35.44974613800008
+            ], 
+            [
+              -97.40620388099995, 
+              35.46413711800005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Midwest City", 
+        "Name": "Country Estates", 
+        "RegionID": "762800", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51006266999997, 
+              35.48239416900003
+            ], 
+            [
+              -97.51595635699994, 
+              35.482378940000046
+            ], 
+            [
+              -97.52967897799994, 
+              35.48238113300005
+            ], 
+            [
+              -97.52990226699995, 
+              35.48297179100007
+            ], 
+            [
+              -97.53007433599998, 
+              35.48597535300007
+            ], 
+            [
+              -97.51164553999996, 
+              35.49178656500004
+            ], 
+            [
+              -97.51006266999997, 
+              35.48239416900003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Heritage Hills", 
+        "RegionID": "763259", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.49436492199999, 
+              35.50777339200005
+            ], 
+            [
+              -97.49450252499997, 
+              35.49318784700006
+            ], 
+            [
+              -97.51240323999997, 
+              35.49322188800005
+            ], 
+            [
+              -97.51303522399996, 
+              35.494386872000064
+            ], 
+            [
+              -97.51347685199994, 
+              35.495460485000024
+            ], 
+            [
+              -97.51374715899999, 
+              35.49666354000004
+            ], 
+            [
+              -97.51466967599998, 
+              35.50837894400007
+            ], 
+            [
+              -97.49436492199999, 
+              35.50777339200005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Capitol Campus", 
+        "RegionID": "763270", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51645668599997, 
+              35.515242898000054
+            ], 
+            [
+              -97.51466967599998, 
+              35.50837894400007
+            ], 
+            [
+              -97.52319004999998, 
+              35.507773609000026
+            ], 
+            [
+              -97.52543663299997, 
+              35.50781637000006
+            ], 
+            [
+              -97.53436019199995, 
+              35.507796452000036
+            ], 
+            [
+              -97.53441942399996, 
+              35.51510627000005
+            ], 
+            [
+              -97.51645668599997, 
+              35.515242898000054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Crown Heights", 
+        "RegionID": "763277", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.5258323799999, 
+              35.49326745400003
+            ], 
+            [
+              -97.53165372499996, 
+              35.49323332800003
+            ], 
+            [
+              -97.54771223099999, 
+              35.49327139900004
+            ], 
+            [
+              -97.54768779099999, 
+              35.50775165400006
+            ], 
+            [
+              -97.53436019199995, 
+              35.507796452000036
+            ], 
+            [
+              -97.52543663299997, 
+              35.50781637000006
+            ], 
+            [
+              -97.5258323799999, 
+              35.49326745400003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Asia District", 
+        "RegionID": "763279", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.52125075299995, 
+              35.46645606300007
+            ], 
+            [
+              -97.52113652599996, 
+              35.46426106000007
+            ], 
+            [
+              -97.52571878799995, 
+              35.46886028100005
+            ], 
+            [
+              -97.52125075299995, 
+              35.46645606300007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Film Row", 
+        "RegionID": "763284", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.51248328599996, 
+              35.46426224600003
+            ], 
+            [
+              -97.51629966599995, 
+              35.46426278700005
+            ], 
+            [
+              -97.51797421099997, 
+              35.468835596000076
+            ], 
+            [
+              -97.51948754899996, 
+              35.46886129400008
+            ], 
+            [
+              -97.51637780999994, 
+              35.47194682800006
+            ], 
+            [
+              -97.51227620999998, 
+              35.471844461000046
+            ], 
+            [
+              -97.51232871699995, 
+              35.470461027000056
+            ], 
+            [
+              -97.51248328599996, 
+              35.46426224600003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Oklahoma City", 
+        "Name": "Central Business District", 
+        "RegionID": "763286", 
+        "County": "Oklahoma", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Norman", 
+        "Name": "Downtown", 
+        "RegionID": "763745", 
+        "County": "Cleveland", 
+        "State_abbv": "OK", 
+        "State": "Oklahoma"
+      }
+    }
+  ]
+}

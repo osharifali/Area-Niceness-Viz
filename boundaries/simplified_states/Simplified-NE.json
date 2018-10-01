@@ -1,0 +1,1145 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Arnold Heights", 
+        "RegionID": "272799", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Crown Pointe", 
+        "RegionID": "273410", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.65374770499997, 
+              40.82074540700006
+            ], 
+            [
+              -96.67285283199995, 
+              40.82344741900007
+            ], 
+            [
+              -96.67285900999993, 
+              40.82802195000002
+            ], 
+            [
+              -96.65381540499989, 
+              40.82802585600008
+            ], 
+            [
+              -96.65374770499997, 
+              40.82074540700006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "East Campus", 
+        "RegionID": "273535", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.67285283199995, 
+              40.82344741900007
+            ], 
+            [
+              -96.65374770499997, 
+              40.82074540700006
+            ], 
+            [
+              -96.6537028799999, 
+              40.81347605000006
+            ], 
+            [
+              -96.65609850099987, 
+              40.81348819400009
+            ], 
+            [
+              -96.67283266199988, 
+              40.81347680400003
+            ], 
+            [
+              -96.68233957999992, 
+              40.813527618000066
+            ], 
+            [
+              -96.68226430699991, 
+              40.82347548900008
+            ], 
+            [
+              -96.67285283199995, 
+              40.82344741900007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Hartley", 
+        "RegionID": "273944", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Highlands", 
+        "RegionID": "274010", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.68638530399991, 
+              40.805630924000035
+            ], 
+            [
+              -96.68237865299996, 
+              40.80250726400004
+            ], 
+            [
+              -96.68241736999995, 
+              40.798988073000096
+            ], 
+            [
+              -96.68247922399992, 
+              40.79168636900009
+            ], 
+            [
+              -96.69200718599993, 
+              40.79171755
+            ], 
+            [
+              -96.70274177599993, 
+              40.79182899400008
+            ], 
+            [
+              -96.70263953999991, 
+              40.805851957000115
+            ], 
+            [
+              -96.68638530399991, 
+              40.805630924000035
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Near South", 
+        "RegionID": "274646", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.6537028799999, 
+              40.81347605000006
+            ], 
+            [
+              -96.65119181499996, 
+              40.75829533800007
+            ], 
+            [
+              -96.65621076499993, 
+              40.791807225000056
+            ], 
+            [
+              -96.6561362909999, 
+              40.80619156400006
+            ], 
+            [
+              -96.65609850099987, 
+              40.81348819400009
+            ], 
+            [
+              -96.6537028799999, 
+              40.81347605000006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "South 48th Street", 
+        "RegionID": "275407", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Bicentennial Estates", 
+        "RegionID": "272955", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.67285900999993, 
+              40.82802195000002
+            ], 
+            [
+              -96.67285283199995, 
+              40.82344741900007
+            ], 
+            [
+              -96.68226430699991, 
+              40.82347548900008
+            ], 
+            [
+              -96.6938263349999, 
+              40.82354176700006
+            ], 
+            [
+              -96.67277266599989, 
+              40.84074400400007
+            ], 
+            [
+              -96.67279802199995, 
+              40.837285319000074
+            ], 
+            [
+              -96.67285900999993, 
+              40.82802195000002
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Clinton", 
+        "RegionID": "273288", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Colonial Hills", 
+        "RegionID": "273322", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.68826234099996, 
+              40.81355995600008
+            ], 
+            [
+              -96.68638530399991, 
+              40.805630924000035
+            ], 
+            [
+              -96.70263953999991, 
+              40.805851957000115
+            ], 
+            [
+              -96.70854105299988, 
+              40.806957288
+            ], 
+            [
+              -96.71099823999988, 
+              40.81364163500008
+            ], 
+            [
+              -96.69385452099992, 
+              40.81580618800004
+            ], 
+            [
+              -96.68826234099996, 
+              40.81355995600008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Downtown", 
+        "RegionID": "273491", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.70263953999991, 
+              40.805851957000115
+            ], 
+            [
+              -96.70274177599993, 
+              40.79182899400008
+            ], 
+            [
+              -96.70861933199987, 
+              40.79185898700007
+            ], 
+            [
+              -96.70854105299988, 
+              40.806957288
+            ], 
+            [
+              -96.70263953999991, 
+              40.805851957000115
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Everett", 
+        "RegionID": "273656", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.69205467199994, 
+              40.77016207000005
+            ], 
+            [
+              -96.70871225999993, 
+              40.78450873600005
+            ], 
+            [
+              -96.6920638039999, 
+              40.78446140300004
+            ], 
+            [
+              -96.69205467199994, 
+              40.77016207000005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Indian Village", 
+        "RegionID": "274090", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Belmont", 
+        "RegionID": "186060", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.65381540499989, 
+              40.82802585600008
+            ], 
+            [
+              -96.67279802199995, 
+              40.837285319000074
+            ], 
+            [
+              -96.67277266599989, 
+              40.84074400400007
+            ], 
+            [
+              -96.65381540499989, 
+              40.82802585600008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "University Place", 
+        "RegionID": "187050", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Far South", 
+        "RegionID": "273702", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.66499030199991, 
+              40.79165711700007
+            ], 
+            [
+              -96.67296779799996, 
+              40.76895419100003
+            ], 
+            [
+              -96.6728446649999, 
+              40.77713341100008
+            ], 
+            [
+              -96.67286751899992, 
+              40.78020819300011
+            ], 
+            [
+              -96.66499030199991, 
+              40.79165711700007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Greater South", 
+        "RegionID": "273884", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.68233957999992, 
+              40.813527618000066
+            ], 
+            [
+              -96.68826234099996, 
+              40.81355995600008
+            ], 
+            [
+              -96.69385452099992, 
+              40.81580618800004
+            ], 
+            [
+              -96.6938263349999, 
+              40.82354176700006
+            ], 
+            [
+              -96.68226430699991, 
+              40.82347548900008
+            ], 
+            [
+              -96.68233957999992, 
+              40.813527618000066
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Malone", 
+        "RegionID": "274404", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Maple Village-Wedgewood", 
+        "RegionID": "274413", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Porter Ridge", 
+        "RegionID": "275079", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Sunset Acres", 
+        "RegionID": "275631", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.63461448999996, 
+              40.80605943800005
+            ], 
+            [
+              -96.63462464999992, 
+              40.811703095000006
+            ], 
+            [
+              -96.63060148399992, 
+              40.81336072100002
+            ], 
+            [
+              -96.62943208899989, 
+              40.81335753700003
+            ], 
+            [
+              -96.63461448999996, 
+              40.80605943800005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Taylor Park", 
+        "RegionID": "275674", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.73019799999992, 
+              40.78451000000005
+            ], 
+            [
+              -96.73577860480715, 
+              40.7845218811482
+            ], 
+            [
+              -96.75889039499974, 
+              40.81375412500076
+            ], 
+            [
+              -96.73019799999992, 
+              40.78451000000005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "West A", 
+        "RegionID": "275951", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Autumn Wood", 
+        "RegionID": "272829", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.67286751899992, 
+              40.78020819300011
+            ], 
+            [
+              -96.6728446649999, 
+              40.77713341100008
+            ], 
+            [
+              -96.68158311499994, 
+              40.76947649100008
+            ], 
+            [
+              -96.69205467199994, 
+              40.77016207000005
+            ], 
+            [
+              -96.6920638039999, 
+              40.78446140300004
+            ], 
+            [
+              -96.69200718599993, 
+              40.79171755
+            ], 
+            [
+              -96.68247922399992, 
+              40.79168636900009
+            ], 
+            [
+              -96.67499890099988, 
+              40.79167652700008
+            ], 
+            [
+              -96.67286751899992, 
+              40.78020819300011
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Country Club", 
+        "RegionID": "273364", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Eastridge", 
+        "RegionID": "273583", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Family Acres", 
+        "RegionID": "273697", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "North Bottoms", 
+        "RegionID": "274691", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Salt Valley View", 
+        "RegionID": "275277", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Southern Hills", 
+        "RegionID": "275479", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.67283266199988, 
+              40.81347680400003
+            ], 
+            [
+              -96.67283915999988, 
+              40.80619621400009
+            ], 
+            [
+              -96.67285053199994, 
+              40.79764760100003
+            ], 
+            [
+              -96.68237865299996, 
+              40.80250726400004
+            ], 
+            [
+              -96.68638530399991, 
+              40.805630924000035
+            ], 
+            [
+              -96.68826234099996, 
+              40.81355995600008
+            ], 
+            [
+              -96.68233957999992, 
+              40.813527618000066
+            ], 
+            [
+              -96.67283266199988, 
+              40.81347680400003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Woods Park", 
+        "RegionID": "276148", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.67296779799996, 
+              40.76895419100003
+            ], 
+            [
+              -96.68158311499994, 
+              40.76947649100008
+            ], 
+            [
+              -96.6728446649999, 
+              40.77713341100008
+            ], 
+            [
+              -96.67296779799996, 
+              40.76895419100003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Bishop Park", 
+        "RegionID": "276213", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Tri-Court", 
+        "RegionID": "276613", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.67499890099988, 
+              40.79167652700008
+            ], 
+            [
+              -96.68247922399992, 
+              40.79168636900009
+            ], 
+            [
+              -96.68241736999995, 
+              40.798988073000096
+            ], 
+            [
+              -96.67499890099988, 
+              40.79167652700008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Antelope Park", 
+        "RegionID": "276184", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Capitol Beach", 
+        "RegionID": "276236", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.6821224979999, 
+              40.847577591000075
+            ], 
+            [
+              -96.69157770399991, 
+              40.847747291000076
+            ], 
+            [
+              -96.6916666619999, 
+              40.85720626500006
+            ], 
+            [
+              -96.69156826799994, 
+              40.857259373000005
+            ], 
+            [
+              -96.68442883399986, 
+              40.85711323400008
+            ], 
+            [
+              -96.68206613699994, 
+              40.85700752600005
+            ], 
+            [
+              -96.6821224979999, 
+              40.847577591000075
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Landons", 
+        "RegionID": "274265", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.60608646299997, 
+              40.813438982000015
+            ], 
+            [
+              -96.61606913099993, 
+              40.81338603900008
+            ], 
+            [
+              -96.62943208899989, 
+              40.81335753700003
+            ], 
+            [
+              -96.63060148399992, 
+              40.81336072100002
+            ], 
+            [
+              -96.60608646299997, 
+              40.813438982000015
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Meadowlane", 
+        "RegionID": "274483", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.70861933199987, 
+              40.79185898700007
+            ], 
+            [
+              -96.70871225999993, 
+              40.78450873600005
+            ], 
+            [
+              -96.71099823999988, 
+              40.81364163500008
+            ], 
+            [
+              -96.70854105299988, 
+              40.806957288
+            ], 
+            [
+              -96.70861933199987, 
+              40.79185898700007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "South Salt Creek", 
+        "RegionID": "275453", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "Yankee Hill", 
+        "RegionID": "276673", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.65621076499993, 
+              40.791807225000056
+            ], 
+            [
+              -96.66499030199991, 
+              40.79165711700007
+            ], 
+            [
+              -96.67285053199994, 
+              40.79764760100003
+            ], 
+            [
+              -96.67283915999988, 
+              40.80619621400009
+            ], 
+            [
+              -96.6561362909999, 
+              40.80619156400006
+            ], 
+            [
+              -96.65621076499993, 
+              40.791807225000056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Lincoln", 
+        "Name": "40th & A", 
+        "RegionID": "343504", 
+        "County": "Lancaster", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.196442, 
+              41.30645
+            ], 
+            [
+              -96.215757, 
+              41.190504
+            ], 
+            [
+              -96.308688, 
+              41.190099
+            ], 
+            [
+              -96.258038, 
+              41.258285
+            ], 
+            [
+              -96.292527, 
+              41.35007
+            ], 
+            [
+              -96.234233, 
+              41.364212
+            ], 
+            [
+              -96.196442, 
+              41.30645
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Omaha", 
+        "Name": "Elkhorn", 
+        "RegionID": "55788", 
+        "County": "Douglas", 
+        "State_abbv": "NE", 
+        "State": "Nebraska"
+      }
+    }
+  ]
+}

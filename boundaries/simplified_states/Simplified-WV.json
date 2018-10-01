@@ -1,0 +1,381 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.62307036199996, 
+              38.35180958700005
+            ], 
+            [
+              -81.59176993399996, 
+              38.33321551200004
+            ], 
+            [
+              -81.63318120999998, 
+              38.34435061800008
+            ], 
+            [
+              -81.62307036199996, 
+              38.35180958700005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Charleston", 
+        "Name": "East End", 
+        "RegionID": "272318", 
+        "County": "Kanawha", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.59176993399996, 
+              38.33321551200004
+            ], 
+            [
+              -81.62307036199996, 
+              38.35180958700005
+            ], 
+            [
+              -81.63209876299999, 
+              38.358237204000034
+            ], 
+            [
+              -81.609925, 
+              38.365601
+            ], 
+            [
+              -81.567353, 
+              38.372591
+            ], 
+            [
+              -81.59176993399996, 
+              38.33321551200004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Charleston", 
+        "Name": "Oakridge/Greenbrier", 
+        "RegionID": "760974", 
+        "County": "Kanawha", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.61078716599997, 
+              38.36636775200003
+            ], 
+            [
+              -81.609925, 
+              38.365601
+            ], 
+            [
+              -81.63209876299999, 
+              38.358237204000034
+            ], 
+            [
+              -81.64557756099998, 
+              38.35455994700004
+            ], 
+            [
+              -81.675548, 
+              38.370528
+            ], 
+            [
+              -81.66548125899999, 
+              38.37534570100007
+            ], 
+            [
+              -81.61078716599997, 
+              38.36636775200003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Charleston", 
+        "Name": "West Side", 
+        "RegionID": "258420", 
+        "County": "Kanawha", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.66388619299994, 
+              38.37589054000006
+            ], 
+            [
+              -81.66548125899999, 
+              38.37534570100007
+            ], 
+            [
+              -81.675548, 
+              38.370528
+            ], 
+            [
+              -81.706717, 
+              38.375007
+            ], 
+            [
+              -81.66687645099995, 
+              38.40125971000003
+            ], 
+            [
+              -81.66388619299994, 
+              38.37589054000006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Charleston", 
+        "Name": "North Charleston", 
+        "RegionID": "257265", 
+        "County": "Kanawha", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.63209876299999, 
+              38.358237204000034
+            ], 
+            [
+              -81.62307036199996, 
+              38.35180958700005
+            ], 
+            [
+              -81.63318120999998, 
+              38.34435061800008
+            ], 
+            [
+              -81.64557756099998, 
+              38.35455994700004
+            ], 
+            [
+              -81.63209876299999, 
+              38.358237204000034
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Charleston", 
+        "Name": "Downtown", 
+        "RegionID": "272317", 
+        "County": "Kanawha", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.62054981599994, 
+              38.33586550000007
+            ], 
+            [
+              -81.624056, 
+              38.321087
+            ], 
+            [
+              -81.655807, 
+              38.309702
+            ], 
+            [
+              -81.705002, 
+              38.34086
+            ], 
+            [
+              -81.669337, 
+              38.365411
+            ], 
+            [
+              -81.62054981599994, 
+              38.33586550000007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Charleston", 
+        "Name": "South Hills", 
+        "RegionID": "257978", 
+        "County": "Kanawha", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.624056, 
+              38.321087
+            ], 
+            [
+              -81.62054981599994, 
+              38.33586550000007
+            ], 
+            [
+              -81.56190153399996, 
+              38.29855638200007
+            ], 
+            [
+              -81.624056, 
+              38.321087
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Charleston", 
+        "Name": "Kanawha City", 
+        "RegionID": "256560", 
+        "County": "Kanawha", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.61078716599997, 
+              38.36636775200003
+            ], 
+            [
+              -81.66548125899999, 
+              38.37534570100007
+            ], 
+            [
+              -81.66388619299994, 
+              38.37589054000006
+            ], 
+            [
+              -81.62865438499995, 
+              38.40532826700007
+            ], 
+            [
+              -81.61078716599997, 
+              38.36636775200003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Charleston", 
+        "Name": "Edgewood", 
+        "RegionID": "255775", 
+        "County": "Kanawha", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Martinsburg", 
+        "Name": "Downtown", 
+        "RegionID": "762866", 
+        "County": "Berkeley", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Morgantown", 
+        "Name": "Sunnyside", 
+        "RegionID": "410147", 
+        "County": "Monongalia", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Morgantown", 
+        "Name": "Woodburn", 
+        "RegionID": "265710", 
+        "County": "Monongalia", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Morgantown", 
+        "Name": "Jerome Park", 
+        "RegionID": "761206", 
+        "County": "Monongalia", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Morgantown", 
+        "Name": "First Ward", 
+        "RegionID": "761207", 
+        "County": "Monongalia", 
+        "State_abbv": "WV", 
+        "State": "West Virginia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.50703599999991, 
+              44.14794500000005
+            ], 
+            [
+              -72.49437499999993, 
+              44.18285700000007
+            ], 
+            [
+              -72.43682899999993, 
+              44.15362900000008
+            ], 
+            [
+              -72.4430319999999, 
+              44.12866900000006
+            ], 
+            [
+              -72.50703599999991, 
+              44.14794500000005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Barre", 
+        "Name": "Graniteville-East Barre", 
+        "RegionID": "396749", 
+        "County": "Washington", 
+        "State_abbv": "VT", 
+        "State": "Vermont"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.00267390599993, 
+              43.19013742200008
+            ], 
+            [
+              -73.02529599999991, 
+              43.16569400000009
+            ], 
+            [
+              -73.06341999999995, 
+              43.172071000000074
+            ], 
+            [
+              -73.05373299999991, 
+              43.20412900000008
+            ], 
+            [
+              -73.00267390599993, 
+              43.19013742200008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Town of Manchester", 
+        "Name": "Manchester Center", 
+        "RegionID": "46387", 
+        "County": "Bennington", 
+        "State_abbv": "VT", 
+        "State": "Vermont"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Barre", 
+        "Name": "South Barre", 
+        "RegionID": "13904", 
+        "County": "Washington", 
+        "State_abbv": "VT", 
+        "State": "Vermont"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Barre", 
+        "Name": "Websterville", 
+        "RegionID": "30064", 
+        "County": "Washington", 
+        "State_abbv": "VT", 
+        "State": "Vermont"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.31391563899996, 
+              43.84515560400007
+            ], 
+            [
+              -72.33742632399998, 
+              43.80969780400005
+            ], 
+            [
+              -72.39291699999995, 
+              43.82228300000003
+            ], 
+            [
+              -72.34997399999997, 
+              43.87265300000007
+            ], 
+            [
+              -72.31391563899996, 
+              43.84515560400007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Strafford", 
+        "Name": "South Strafford", 
+        "RegionID": "54487", 
+        "County": "Orange", 
+        "State_abbv": "VT", 
+        "State": "Vermont"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Barre", 
+        "Name": "East Barre", 
+        "RegionID": "38276", 
+        "County": "Washington", 
+        "State_abbv": "VT", 
+        "State": "Vermont"
+      }
+    }
+  ]
+}

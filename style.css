@@ -1,0 +1,80 @@
+.ticks {
+  font: 12px sans-serif;
+}
+
+.track, .track-inset, .track-overlay {
+  stroke-linecap: round;
+}
+
+.track {
+  stroke: #000;
+  stroke-opacity: 0.3;
+  stroke-width: 10px;
+}
+
+.track-inset {
+  stroke: #ddd;
+  stroke-width: 8px;
+}
+
+.track-overlay {
+  pointer-events: stroke;
+  stroke-width: 50px;
+  stroke: transparent;
+  cursor: ew-resize;
+}
+
+.handle {
+  fill: #fff;
+  stroke: #000;
+  stroke-opacity: 0.5;
+  stroke-width: 1.25px;
+}
+
+select {
+  padding-bottom: 10px;
+}
+
+body {
+  font-family: "PT Sans", serif;
+  font-size: 18px;
+}
+
+.state {
+  stroke: #fff;
+  fill: #B0BEC5;
+}
+
+.state.active {
+  fill: #78909C;
+}
+
+.neighborhood {
+  fill: #1DE9B6;
+}
+
+.neighborhood2 {
+  stroke: #fff;
+  stroke-width: 0.2;
+}
+
+div#tooltip.tooltip {
+  position: absolute;
+  text-align: left;
+  background-color: #80CBC4;
+  width: auto;
+  height: auto;
+  padding: 10px;
+  border: 0px;
+  pointer-events: none;
+  left: 30px;
+  top: 30px;
+}
+
+.button {
+  fill: #80CBC4;
+}
+
+.title {
+  font-size: 24px;
+}

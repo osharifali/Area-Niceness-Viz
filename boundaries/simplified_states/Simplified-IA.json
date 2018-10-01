@@ -1,0 +1,5803 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Melrose", 
+        "RegionID": "415286", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.51158672399998, 
+              41.65445166400008
+            ], 
+            [
+              -91.51154658499996, 
+              41.64856737000008
+            ], 
+            [
+              -91.51560342399995, 
+              41.65013851000003
+            ], 
+            [
+              -91.52594978699994, 
+              41.65222412000003
+            ], 
+            [
+              -91.52581476699999, 
+              41.657784701000026
+            ], 
+            [
+              -91.51582161499994, 
+              41.65877888500006
+            ], 
+            [
+              -91.51158672399998, 
+              41.65445166400008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Longfellow", 
+        "RegionID": "212760", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.51923713399998, 
+              41.64182961300003
+            ], 
+            [
+              -91.51922606999995, 
+              41.63824621400005
+            ], 
+            [
+              -91.52487837499996, 
+              41.63832093000008
+            ], 
+            [
+              -91.52426710499998, 
+              41.643325943000036
+            ], 
+            [
+              -91.51923713399998, 
+              41.64182961300003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Broadway", 
+        "RegionID": "199706", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.53862260399995, 
+              41.68526730600007
+            ], 
+            [
+              -91.53281871599995, 
+              41.67540506000006
+            ], 
+            [
+              -91.56057264599997, 
+              41.675994177000064
+            ], 
+            [
+              -91.53862260399995, 
+              41.68526730600007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Peninsula Area", 
+        "RegionID": "761837", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Windsor Ridge", 
+        "RegionID": "276664", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "South Pointe", 
+        "RegionID": "761826", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.51179423399998, 
+              41.63033989200005
+            ], 
+            [
+              -91.51902902699999, 
+              41.63028310400006
+            ], 
+            [
+              -91.51909448499998, 
+              41.63154861400005
+            ], 
+            [
+              -91.51922606999995, 
+              41.63824621400005
+            ], 
+            [
+              -91.51923713399998, 
+              41.64182961300003
+            ], 
+            [
+              -91.51176404099994, 
+              41.64127136900004
+            ], 
+            [
+              -91.51176332699998, 
+              41.631352235000065
+            ], 
+            [
+              -91.51179423399998, 
+              41.63033989200005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Wetherby", 
+        "RegionID": "761827", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.51922606999995, 
+              41.63824621400005
+            ], 
+            [
+              -91.51909448499998, 
+              41.63154861400005
+            ], 
+            [
+              -91.52487837499996, 
+              41.63832093000008
+            ], 
+            [
+              -91.51922606999995, 
+              41.63824621400005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Pepperwood", 
+        "RegionID": "761828", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.51154658499996, 
+              41.64856737000008
+            ], 
+            [
+              -91.50200712799995, 
+              41.644614397000055
+            ], 
+            [
+              -91.50090748399998, 
+              41.64416922800007
+            ], 
+            [
+              -91.50659212499994, 
+              41.64064719000004
+            ], 
+            [
+              -91.51176404099994, 
+              41.64127136900004
+            ], 
+            [
+              -91.51923713399998, 
+              41.64182961300003
+            ], 
+            [
+              -91.52426710499998, 
+              41.643325943000036
+            ], 
+            [
+              -91.52785418099995, 
+              41.64941923300006
+            ], 
+            [
+              -91.51560342399995, 
+              41.65013851000003
+            ], 
+            [
+              -91.51154658499996, 
+              41.64856737000008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Lucas Farms", 
+        "RegionID": "761829", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.50090748399998, 
+              41.64416922800007
+            ], 
+            [
+              -91.50200712799995, 
+              41.644614397000055
+            ], 
+            [
+              -91.50199602599997, 
+              41.656709790000036
+            ], 
+            [
+              -91.48107956599995, 
+              41.65711758000003
+            ], 
+            [
+              -91.48280927499997, 
+              41.63702521500005
+            ], 
+            [
+              -91.50090748399998, 
+              41.64416922800007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Eastside", 
+        "RegionID": "176359", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Weber Harlocke", 
+        "RegionID": "761822", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Paddock", 
+        "RegionID": "761824", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.50199602599997, 
+              41.656709790000036
+            ], 
+            [
+              -91.50200712799995, 
+              41.644614397000055
+            ], 
+            [
+              -91.51154658499996, 
+              41.64856737000008
+            ], 
+            [
+              -91.51158672399998, 
+              41.65445166400008
+            ], 
+            [
+              -91.50199602599997, 
+              41.656709790000036
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Creekside", 
+        "RegionID": "761831", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.48107956599995, 
+              41.65711758000003
+            ], 
+            [
+              -91.50199602599997, 
+              41.656709790000036
+            ], 
+            [
+              -91.50218434399994, 
+              41.66635130600008
+            ], 
+            [
+              -91.49269334, 
+              41.66656831300003
+            ], 
+            [
+              -91.48107956599995, 
+              41.65711758000003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Washington Hills", 
+        "RegionID": "761833", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.58816319699997, 
+              41.656874222000056
+            ], 
+            [
+              -91.59254709199996, 
+              41.65695230700004
+            ], 
+            [
+              -91.58793307099995, 
+              41.67164371600006
+            ], 
+            [
+              -91.58816319699997, 
+              41.656874222000056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Walnut Ridge", 
+        "RegionID": "260635", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Southwest Estates", 
+        "RegionID": "761816", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Miller Orchard", 
+        "RegionID": "761823", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.50659212499994, 
+              41.64064719000004
+            ], 
+            [
+              -91.49748069999998, 
+              41.627771962000054
+            ], 
+            [
+              -91.51176332699998, 
+              41.631352235000065
+            ], 
+            [
+              -91.51176404099994, 
+              41.64127136900004
+            ], 
+            [
+              -91.50659212499994, 
+              41.64064719000004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Grant Wood", 
+        "RegionID": "761825", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.50199602599997, 
+              41.656709790000036
+            ], 
+            [
+              -91.51158672399998, 
+              41.65445166400008
+            ], 
+            [
+              -91.51582161499994, 
+              41.65877888500006
+            ], 
+            [
+              -91.51567767199998, 
+              41.66394991100003
+            ], 
+            [
+              -91.50218434399994, 
+              41.66635130600008
+            ], 
+            [
+              -91.50199602599997, 
+              41.656709790000036
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Morningslde-Glendale", 
+        "RegionID": "761830", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Bluffwood", 
+        "RegionID": "761832", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.52594978699994, 
+              41.65222412000003
+            ], 
+            [
+              -91.51560342399995, 
+              41.65013851000003
+            ], 
+            [
+              -91.52785418099995, 
+              41.64941923300006
+            ], 
+            [
+              -91.52594978699994, 
+              41.65222412000003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Oak Grove", 
+        "RegionID": "261981", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Galway Hills", 
+        "RegionID": "761817", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Mormon Trek Village", 
+        "RegionID": "761818", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Ty Cah", 
+        "RegionID": "761819", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Penny Bryn", 
+        "RegionID": "761820", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Bryn Mawr Heights", 
+        "RegionID": "761821", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.51835263399994, 
+              41.66388456100003
+            ], 
+            [
+              -91.51567767199998, 
+              41.66394991100003
+            ], 
+            [
+              -91.51582161499994, 
+              41.65877888500006
+            ], 
+            [
+              -91.52581476699999, 
+              41.657784701000026
+            ], 
+            [
+              -91.53021594099994, 
+              41.662448297000026
+            ], 
+            [
+              -91.51835263399994, 
+              41.66388456100003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "College Green", 
+        "RegionID": "761834", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.51835263399994, 
+              41.66388456100003
+            ], 
+            [
+              -91.53021594099994, 
+              41.662448297000026
+            ], 
+            [
+              -91.53267052899997, 
+              41.67300483100007
+            ], 
+            [
+              -91.52125457799997, 
+              41.67505595400007
+            ], 
+            [
+              -91.51835263399994, 
+              41.66388456100003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Northside", 
+        "RegionID": "761835", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.52125457799997, 
+              41.67505595400007
+            ], 
+            [
+              -91.53267052899997, 
+              41.67300483100007
+            ], 
+            [
+              -91.53281871599995, 
+              41.67540506000006
+            ], 
+            [
+              -91.53862260399995, 
+              41.68526730600007
+            ], 
+            [
+              -91.50102824699997, 
+              41.685572774000036
+            ], 
+            [
+              -91.52125457799997, 
+              41.67505595400007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Iowa City", 
+        "Name": "Shimek", 
+        "RegionID": "761836", 
+        "County": "Johnson", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.56106054599996, 
+              41.532885548000024
+            ], 
+            [
+              -90.57404323699996, 
+              41.53306818600004
+            ], 
+            [
+              -90.57406009299996, 
+              41.53615109500004
+            ], 
+            [
+              -90.55789134199995, 
+              41.53619966200006
+            ], 
+            [
+              -90.56106054599996, 
+              41.532885548000024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "East Fourteenth Street", 
+        "RegionID": "763684", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.56106054599996, 
+              41.532885548000024
+            ], 
+            [
+              -90.56148694599995, 
+              41.52669466700007
+            ], 
+            [
+              -90.57410527499997, 
+              41.525686251000025
+            ], 
+            [
+              -90.57404323699996, 
+              41.53306818600004
+            ], 
+            [
+              -90.56106054599996, 
+              41.532885548000024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "Cork Hill", 
+        "RegionID": "763683", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.54422371799996, 
+              41.53005018300007
+            ], 
+            [
+              -90.54976281999996, 
+              41.52891919500007
+            ], 
+            [
+              -90.55157622799999, 
+              41.53229742100007
+            ], 
+            [
+              -90.55157625299995, 
+              41.53442839100006
+            ], 
+            [
+              -90.54341470199995, 
+              41.53257241100005
+            ], 
+            [
+              -90.54422371799996, 
+              41.53005018300007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "Village of East Davenport", 
+        "RegionID": "763682", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.55157622799999, 
+              41.53229742100007
+            ], 
+            [
+              -90.54976281999996, 
+              41.52891919500007
+            ], 
+            [
+              -90.55382341599994, 
+              41.52787535500005
+            ], 
+            [
+              -90.55157622799999, 
+              41.53229742100007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "Prospect Park", 
+        "RegionID": "763681", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "McClellan Heights", 
+        "RegionID": "763679", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.58149455099993, 
+              41.524591162000036
+            ], 
+            [
+              -90.58359456599999, 
+              41.52022840200004
+            ], 
+            [
+              -90.59087249699996, 
+              41.52463454700006
+            ], 
+            [
+              -90.58149455099993, 
+              41.524591162000036
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "West Third Street", 
+        "RegionID": "763686", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.57707195499995, 
+              41.52459474900007
+            ], 
+            [
+              -90.58149455099993, 
+              41.524591162000036
+            ], 
+            [
+              -90.59087249699996, 
+              41.52463454700006
+            ], 
+            [
+              -90.57712909399999, 
+              41.528898206000065
+            ], 
+            [
+              -90.57707195499995, 
+              41.52459474900007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "Hamburg", 
+        "RegionID": "264772", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "Riverview Terrace", 
+        "RegionID": "763678", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.55157622799999, 
+              41.53229742100007
+            ], 
+            [
+              -90.55382341599994, 
+              41.52787535500005
+            ], 
+            [
+              -90.56148694599995, 
+              41.52669466700007
+            ], 
+            [
+              -90.56106054599996, 
+              41.532885548000024
+            ], 
+            [
+              -90.55789134199995, 
+              41.53619966200006
+            ], 
+            [
+              -90.55157625299995, 
+              41.53442839100006
+            ], 
+            [
+              -90.55157622799999, 
+              41.53229742100007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "Bridge Avenue", 
+        "RegionID": "763680", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.57406009299996, 
+              41.53615109500004
+            ], 
+            [
+              -90.57404323699996, 
+              41.53306818600004
+            ], 
+            [
+              -90.57410527499997, 
+              41.525686251000025
+            ], 
+            [
+              -90.57410527499997, 
+              41.524587223000026
+            ], 
+            [
+              -90.57707195499995, 
+              41.52459474900007
+            ], 
+            [
+              -90.57712909399999, 
+              41.528898206000065
+            ], 
+            [
+              -90.57406009299996, 
+              41.53615109500004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "College Square", 
+        "RegionID": "763685", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.58359456599999, 
+              41.52022840200004
+            ], 
+            [
+              -90.58149455099993, 
+              41.524591162000036
+            ], 
+            [
+              -90.57707195499995, 
+              41.52459474900007
+            ], 
+            [
+              -90.57410527499997, 
+              41.524587223000026
+            ], 
+            [
+              -90.58359456599999, 
+              41.52022840200004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Davenport", 
+        "Name": "Downtown", 
+        "RegionID": "763687", 
+        "County": "Scott", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.64480023699991, 
+              41.58574106900005
+            ], 
+            [
+              -93.64473902999993, 
+              41.58574035200007
+            ], 
+            [
+              -93.65913203499991, 
+              41.57673401200009
+            ], 
+            [
+              -93.65936687099992, 
+              41.58444745800006
+            ], 
+            [
+              -93.65933868199994, 
+              41.58618124800006
+            ], 
+            [
+              -93.64480023699991, 
+              41.58574106900005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Arbor Peaks", 
+        "RegionID": "269476", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.58348951799991, 
+              41.58935987800004
+            ], 
+            [
+              -93.5968258659999, 
+              41.586945021000076
+            ], 
+            [
+              -93.59892591699992, 
+              41.59613202400004
+            ], 
+            [
+              -93.58244591399995, 
+              41.600516078000055
+            ], 
+            [
+              -93.58348951799991, 
+              41.58935987800004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Capitol East", 
+        "RegionID": "269477", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.60051892299992, 
+              41.60773007900008
+            ], 
+            [
+              -93.59892591699992, 
+              41.59613202400004
+            ], 
+            [
+              -93.61668001699991, 
+              41.59596336700008
+            ], 
+            [
+              -93.6110742169999, 
+              41.607595812000056
+            ], 
+            [
+              -93.60051892299992, 
+              41.60773007900008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Capitol Park", 
+        "RegionID": "269478", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.63175092099993, 
+              41.61487210900009
+            ], 
+            [
+              -93.63421486599992, 
+              41.611084024000036
+            ], 
+            [
+              -93.63899791299991, 
+              41.61506411100004
+            ], 
+            [
+              -93.63175092099993, 
+              41.61487210900009
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Chautauqua Park", 
+        "RegionID": "269479", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.55836172599993, 
+              41.58909306500004
+            ], 
+            [
+              -93.55829219599991, 
+              41.58017388800005
+            ], 
+            [
+              -93.59696945499991, 
+              41.57543360900007
+            ], 
+            [
+              -93.5968943879999, 
+              41.586894691000055
+            ], 
+            [
+              -93.5968258659999, 
+              41.586945021000076
+            ], 
+            [
+              -93.58348951799991, 
+              41.58935987800004
+            ], 
+            [
+              -93.55836172599993, 
+              41.58909306500004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Chesterfield", 
+        "RegionID": "269480", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.67437592199991, 
+              41.59140902900003
+            ], 
+            [
+              -93.6742759249999, 
+              41.58454196900004
+            ], 
+            [
+              -93.67713131699992, 
+              41.58456021400008
+            ], 
+            [
+              -93.68157089199991, 
+              41.584775973000035
+            ], 
+            [
+              -93.6816298949999, 
+              41.59187807300009
+            ], 
+            [
+              -93.67437592199991, 
+              41.59140902900003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Ingersoll Park", 
+        "RegionID": "269493", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.62998736299994, 
+              41.61412983400004
+            ], 
+            [
+              -93.62988947799994, 
+              41.600657686000034
+            ], 
+            [
+              -93.63837781099994, 
+              41.60044802500005
+            ], 
+            [
+              -93.64376092099991, 
+              41.60040602300006
+            ], 
+            [
+              -93.64385586499992, 
+              41.604082024000036
+            ], 
+            [
+              -93.64383497299991, 
+              41.607759023000085
+            ], 
+            [
+              -93.63421486599992, 
+              41.611084024000036
+            ], 
+            [
+              -93.63175092099993, 
+              41.61487210900009
+            ], 
+            [
+              -93.62998736299994, 
+              41.61412983400004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "King Irving", 
+        "RegionID": "269494", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Kirkwood Glen", 
+        "RegionID": "269495", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.55829219599991, 
+              41.58017388800005
+            ], 
+            [
+              -93.55836172599993, 
+              41.58909306500004
+            ], 
+            [
+              -93.5583539189999, 
+              41.59354403600008
+            ], 
+            [
+              -93.53933327999994, 
+              41.59078492600008
+            ], 
+            [
+              -93.53933834599991, 
+              41.59046917300009
+            ], 
+            [
+              -93.53943456499991, 
+              41.57425320600004
+            ], 
+            [
+              -93.55829219599991, 
+              41.58017388800005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Laurel Hill", 
+        "RegionID": "269496", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Somerset", 
+        "RegionID": "269510", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.5969159249999, 
+              41.55531952900009
+            ], 
+            [
+              -93.59691607399992, 
+              41.55354181000007
+            ], 
+            [
+              -93.59690591799995, 
+              41.54810203400007
+            ], 
+            [
+              -93.5968439209999, 
+              41.52628901200006
+            ], 
+            [
+              -93.60644791899995, 
+              41.52636802200004
+            ], 
+            [
+              -93.6064819209999, 
+              41.54091202200004
+            ], 
+            [
+              -93.60648583299991, 
+              41.548137040000086
+            ], 
+            [
+              -93.60654485299995, 
+              41.55538773600006
+            ], 
+            [
+              -93.5969159249999, 
+              41.55531952900009
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "South Park", 
+        "RegionID": "269511", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.64505322999992, 
+              41.54825882800009
+            ], 
+            [
+              -93.64497222999995, 
+              41.526761097000076
+            ], 
+            [
+              -93.70317499999993, 
+              41.52658400000007
+            ], 
+            [
+              -93.70336999999995, 
+              41.554309000000046
+            ], 
+            [
+              -93.64503310799995, 
+              41.56914769300005
+            ], 
+            [
+              -93.64505322999992, 
+              41.54825882800009
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Southwestern Hills", 
+        "RegionID": "269512", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.5921788309999, 
+              41.62228205800005
+            ], 
+            [
+              -93.59798257099993, 
+              41.60775502800004
+            ], 
+            [
+              -93.60051892299992, 
+              41.60773007900008
+            ], 
+            [
+              -93.6110742169999, 
+              41.607595812000056
+            ], 
+            [
+              -93.6198554749999, 
+              41.61283784300008
+            ], 
+            [
+              -93.5921788309999, 
+              41.62228205800005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Union Park", 
+        "RegionID": "269513", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.5968258659999, 
+              41.586945021000076
+            ], 
+            [
+              -93.5968943879999, 
+              41.586894691000055
+            ], 
+            [
+              -93.6161572179999, 
+              41.584701093000035
+            ], 
+            [
+              -93.6185777799999, 
+              41.59160174200008
+            ], 
+            [
+              -93.61668001699991, 
+              41.59596336700008
+            ], 
+            [
+              -93.59892591699992, 
+              41.59613202400004
+            ], 
+            [
+              -93.5968258659999, 
+              41.586945021000076
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "East Village", 
+        "RegionID": "269485", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.55834792499991, 
+              41.60051307800006
+            ], 
+            [
+              -93.5583539189999, 
+              41.59354403600008
+            ], 
+            [
+              -93.55836172599993, 
+              41.58909306500004
+            ], 
+            [
+              -93.58348951799991, 
+              41.58935987800004
+            ], 
+            [
+              -93.58244591399995, 
+              41.600516078000055
+            ], 
+            [
+              -93.58075641499994, 
+              41.600501690000044
+            ], 
+            [
+              -93.55834792499991, 
+              41.60051307800006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Fairground", 
+        "RegionID": "269486", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.57517150899992, 
+              41.62777939100005
+            ], 
+            [
+              -93.55152891799992, 
+              41.627773078000075
+            ], 
+            [
+              -93.5515089889999, 
+              41.625517597000055
+            ], 
+            [
+              -93.55150370599995, 
+              41.62204212600005
+            ], 
+            [
+              -93.57082348499995, 
+              41.60727530000008
+            ], 
+            [
+              -93.5808109749999, 
+              41.60282099300008
+            ], 
+            [
+              -93.58140454799991, 
+              41.61495606400007
+            ], 
+            [
+              -93.58129946799994, 
+              41.62230701400006
+            ], 
+            [
+              -93.57517150899992, 
+              41.62777939100005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Fairmont Park", 
+        "RegionID": "269487", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Garton West", 
+        "RegionID": "269488", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.68466298499993, 
+              41.62945809200005
+            ], 
+            [
+              -93.6826762959999, 
+              41.61126095700007
+            ], 
+            [
+              -93.69371790299994, 
+              41.60039807800007
+            ], 
+            [
+              -93.7036829999999, 
+              41.600437000000056
+            ], 
+            [
+              -93.69765699999994, 
+              41.63668000000007
+            ], 
+            [
+              -93.68466298499993, 
+              41.62945809200005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Merle Hay", 
+        "RegionID": "269502", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.65933868199994, 
+              41.58618124800006
+            ], 
+            [
+              -93.65936687099992, 
+              41.58444745800006
+            ], 
+            [
+              -93.66773211299994, 
+              41.584490534000054
+            ], 
+            [
+              -93.6742759249999, 
+              41.58454196900004
+            ], 
+            [
+              -93.67437592199991, 
+              41.59140902900003
+            ], 
+            [
+              -93.65936878499991, 
+              41.59310689100005
+            ], 
+            [
+              -93.65933868199994, 
+              41.58618124800006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "North of Grand", 
+        "RegionID": "269505", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.64480023699991, 
+              41.58574106900005
+            ], 
+            [
+              -93.65933868199994, 
+              41.58618124800006
+            ], 
+            [
+              -93.65936878499991, 
+              41.59310689100005
+            ], 
+            [
+              -93.64965768699994, 
+              41.59486190000007
+            ], 
+            [
+              -93.64376591299992, 
+              41.59595402800005
+            ], 
+            [
+              -93.64480023699991, 
+              41.58574106900005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Woodland Heights", 
+        "RegionID": "269518", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.57970361799994, 
+              41.548059023000064
+            ], 
+            [
+              -93.54521022699993, 
+              41.547470246000046
+            ], 
+            [
+              -93.53886299999994, 
+              41.527546000000086
+            ], 
+            [
+              -93.57076279099994, 
+              41.518766381000034
+            ], 
+            [
+              -93.57752414099991, 
+              41.51879636600006
+            ], 
+            [
+              -93.5968439209999, 
+              41.52628901200006
+            ], 
+            [
+              -93.59690591799995, 
+              41.54810203400007
+            ], 
+            [
+              -93.57970361799994, 
+              41.548059023000064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Bloomfield-Allen", 
+        "RegionID": "272981", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Frisbee Park", 
+        "RegionID": "273798", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.5921788309999, 
+              41.62228205800005
+            ], 
+            [
+              -93.6198554749999, 
+              41.61283784300008
+            ], 
+            [
+              -93.62528140299992, 
+              41.61380426000005
+            ], 
+            [
+              -93.62482033599991, 
+              41.63675313200008
+            ], 
+            [
+              -93.5921788309999, 
+              41.62228205800005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Highland Park", 
+        "RegionID": "274000", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.64385586499992, 
+              41.604082024000036
+            ], 
+            [
+              -93.64376092099991, 
+              41.60040602300006
+            ], 
+            [
+              -93.64964582899995, 
+              41.600427326000045
+            ], 
+            [
+              -93.64963803099994, 
+              41.60400275200004
+            ], 
+            [
+              -93.6489997409999, 
+              41.60407463200005
+            ], 
+            [
+              -93.64385586499992, 
+              41.604082024000036
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Carpenter", 
+        "RegionID": "276239", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.61979994299992, 
+              41.60034073800006
+            ], 
+            [
+              -93.63837781099994, 
+              41.60044802500005
+            ], 
+            [
+              -93.62988947799994, 
+              41.600657686000034
+            ], 
+            [
+              -93.61979994299992, 
+              41.60034073800006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "New Vision", 
+        "RegionID": "276471", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.52234219399992, 
+              41.62983396900006
+            ], 
+            [
+              -93.52234870599995, 
+              41.629368010000064
+            ], 
+            [
+              -93.5299139999999, 
+              41.615121000000045
+            ], 
+            [
+              -93.55146971199991, 
+              41.612455165000085
+            ], 
+            [
+              -93.55150370599995, 
+              41.62204212600005
+            ], 
+            [
+              -93.5515089889999, 
+              41.625517597000055
+            ], 
+            [
+              -93.52234219399992, 
+              41.62983396900006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Sheridan Gardens", 
+        "RegionID": "417023", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.65852292999995, 
+              41.61499127600007
+            ], 
+            [
+              -93.65853404899991, 
+              41.61683540700005
+            ], 
+            [
+              -93.6464130629999, 
+              41.61508412500007
+            ], 
+            [
+              -93.6464115629999, 
+              41.61508021000009
+            ], 
+            [
+              -93.65852292999995, 
+              41.61499127600007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Martin-Hickman", 
+        "RegionID": "417024", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.62573692399991, 
+              41.548209635000035
+            ], 
+            [
+              -93.64497222999995, 
+              41.526761097000076
+            ], 
+            [
+              -93.64505322999992, 
+              41.54825882800009
+            ], 
+            [
+              -93.62573692399991, 
+              41.548209635000035
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Watrous South", 
+        "RegionID": "417025", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.33141911599995, 
+              42.527545012000076
+            ], 
+            [
+              -92.33272840799998, 
+              42.518255950000025
+            ], 
+            [
+              -92.33274138799999, 
+              42.513232456000026
+            ], 
+            [
+              -92.33759548899997, 
+              42.52760440000003
+            ], 
+            [
+              -92.33141911599995, 
+              42.527545012000076
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Gates Park", 
+        "RegionID": "764117", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.30783890099997, 
+              42.50272285300008
+            ], 
+            [
+              -92.31584782399995, 
+              42.502989874000036
+            ], 
+            [
+              -92.31636688999998, 
+              42.50339290900007
+            ], 
+            [
+              -92.31939737099998, 
+              42.51291075300003
+            ], 
+            [
+              -92.30783890099997, 
+              42.50272285300008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Cityview", 
+        "RegionID": "764116", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.33669700399997, 
+              42.50663659000003
+            ], 
+            [
+              -92.33210741499994, 
+              42.49990674500003
+            ], 
+            [
+              -92.33697216499996, 
+              42.495831450000026
+            ], 
+            [
+              -92.34757123599996, 
+              42.504980001000035
+            ], 
+            [
+              -92.34508793599997, 
+              42.50855538700006
+            ], 
+            [
+              -92.33669700399997, 
+              42.50663659000003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Franklin Gateway", 
+        "RegionID": "764115", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.31939737099998, 
+              42.51291075300003
+            ], 
+            [
+              -92.31636688999998, 
+              42.50339290900007
+            ], 
+            [
+              -92.32783398799995, 
+              42.51312395300005
+            ], 
+            [
+              -92.31939737099998, 
+              42.51291075300003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Unity", 
+        "RegionID": "410398", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Highland", 
+        "RegionID": "261069", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.35737612499997, 
+              42.51676153400007
+            ], 
+            [
+              -92.35749009899996, 
+              42.507252863000076
+            ], 
+            [
+              -92.36357631399994, 
+              42.50980180300007
+            ], 
+            [
+              -92.36591339099994, 
+              42.516846849000046
+            ], 
+            [
+              -92.35737612499997, 
+              42.51676153400007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Chautauqua Park", 
+        "RegionID": "764113", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.32292755499998, 
+              42.48041615100004
+            ], 
+            [
+              -92.31860837399995, 
+              42.46881862400005
+            ], 
+            [
+              -92.33054031999995, 
+              42.46937390200003
+            ], 
+            [
+              -92.33687545799995, 
+              42.469385017000036
+            ], 
+            [
+              -92.34962050799999, 
+              42.46940737700004
+            ], 
+            [
+              -92.34979479799995, 
+              42.47661137100005
+            ], 
+            [
+              -92.34990604299998, 
+              42.48120950300006
+            ], 
+            [
+              -92.33914145299997, 
+              42.481157332000066
+            ], 
+            [
+              -92.33520097399997, 
+              42.48392208900003
+            ], 
+            [
+              -92.32292755499998, 
+              42.48041615100004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Liberty Park", 
+        "RegionID": "764111", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Ridgeway Towers", 
+        "RegionID": "764106", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Alabar Hills", 
+        "RegionID": "764104", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.33090739499994, 
+              42.50050280800008
+            ], 
+            [
+              -92.33210741499994, 
+              42.49990674500003
+            ], 
+            [
+              -92.33669700399997, 
+              42.50663659000003
+            ], 
+            [
+              -92.33090739499994, 
+              42.50050280800008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Walnut", 
+        "RegionID": "261800", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.34962050799999, 
+              42.46940737700004
+            ], 
+            [
+              -92.33687545799995, 
+              42.469385017000036
+            ], 
+            [
+              -92.33687547299996, 
+              42.46483437000006
+            ], 
+            [
+              -92.35692363499999, 
+              42.46705692200004
+            ], 
+            [
+              -92.35694670899994, 
+              42.46941816300006
+            ], 
+            [
+              -92.34962050799999, 
+              42.46940737700004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Park Haven", 
+        "RegionID": "764107", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.34979479799995, 
+              42.47661137100005
+            ], 
+            [
+              -92.35724461799998, 
+              42.48395096000007
+            ], 
+            [
+              -92.34995336199995, 
+              42.48393620400003
+            ], 
+            [
+              -92.34990604299998, 
+              42.48120950300006
+            ], 
+            [
+              -92.34979479799995, 
+              42.47661137100005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "West Central", 
+        "RegionID": "764108", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.34000114, 
+              42.491767965000065
+            ], 
+            [
+              -92.34369501499998, 
+              42.489456080000025
+            ], 
+            [
+              -92.34995336199995, 
+              42.48393620400003
+            ], 
+            [
+              -92.35724461799998, 
+              42.48395096000007
+            ], 
+            [
+              -92.34000114, 
+              42.491767965000065
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Church Row Historic", 
+        "RegionID": "764109", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.33520097399997, 
+              42.48392208900003
+            ], 
+            [
+              -92.33914145299997, 
+              42.481157332000066
+            ], 
+            [
+              -92.34369501499998, 
+              42.489456080000025
+            ], 
+            [
+              -92.34000114, 
+              42.491767965000065
+            ], 
+            [
+              -92.33520097399997, 
+              42.48392208900003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Doe's", 
+        "RegionID": "764110", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.33141911599995, 
+              42.527545012000076
+            ], 
+            [
+              -92.33759548899997, 
+              42.52760440000003
+            ], 
+            [
+              -92.322773, 
+              42.542013
+            ], 
+            [
+              -92.33141911599995, 
+              42.527545012000076
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Good Shepherd", 
+        "RegionID": "764158", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.32783398799995, 
+              42.51312395300005
+            ], 
+            [
+              -92.33274138799999, 
+              42.513232456000026
+            ], 
+            [
+              -92.33272840799998, 
+              42.518255950000025
+            ], 
+            [
+              -92.31939737099998, 
+              42.51291075300003
+            ], 
+            [
+              -92.32783398799995, 
+              42.51312395300005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Roosevelt", 
+        "RegionID": "251787", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.33697216499996, 
+              42.495831450000026
+            ], 
+            [
+              -92.33210741499994, 
+              42.49990674500003
+            ], 
+            [
+              -92.33090739499994, 
+              42.50050280800008
+            ], 
+            [
+              -92.33697216499996, 
+              42.495831450000026
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Cedar River", 
+        "RegionID": "166771", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Maywood", 
+        "RegionID": "264058", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Audobon", 
+        "RegionID": "764105", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "San Souci", 
+        "RegionID": "764112", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.34508793599997, 
+              42.50855538700006
+            ], 
+            [
+              -92.34757123599996, 
+              42.504980001000035
+            ], 
+            [
+              -92.35749009899996, 
+              42.507252863000076
+            ], 
+            [
+              -92.35737612499997, 
+              42.51676153400007
+            ], 
+            [
+              -92.34508793599997, 
+              42.50855538700006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Riverfront", 
+        "RegionID": "764114", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.57975074199993, 
+              41.55106711600007
+            ], 
+            [
+              -93.59691607399992, 
+              41.55354181000007
+            ], 
+            [
+              -93.5969159249999, 
+              41.55531952900009
+            ], 
+            [
+              -93.59701786499994, 
+              41.569754024000076
+            ], 
+            [
+              -93.59701783499992, 
+              41.569758326000056
+            ], 
+            [
+              -93.5739999999999, 
+              41.56644000000006
+            ], 
+            [
+              -93.57975074199993, 
+              41.55106711600007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Pioneer Park", 
+        "RegionID": "417026", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.55152891799992, 
+              41.627773078000075
+            ], 
+            [
+              -93.57517150899992, 
+              41.62777939100005
+            ], 
+            [
+              -93.55632899999995, 
+              41.640495000000044
+            ], 
+            [
+              -93.55152891799992, 
+              41.627773078000075
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Douglas Acres", 
+        "RegionID": "269481", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.6464115629999, 
+              41.61508021000009
+            ], 
+            [
+              -93.64383497299991, 
+              41.607759023000085
+            ], 
+            [
+              -93.64385586499992, 
+              41.604082024000036
+            ], 
+            [
+              -93.6489997409999, 
+              41.60407463200005
+            ], 
+            [
+              -93.64963803099994, 
+              41.60400275200004
+            ], 
+            [
+              -93.64964582899995, 
+              41.600427326000045
+            ], 
+            [
+              -93.64965768699994, 
+              41.59486190000007
+            ], 
+            [
+              -93.65936878499991, 
+              41.59310689100005
+            ], 
+            [
+              -93.67437592199991, 
+              41.59140902900003
+            ], 
+            [
+              -93.6744044539999, 
+              41.60399999800006
+            ], 
+            [
+              -93.65852292999995, 
+              41.61499127600007
+            ], 
+            [
+              -93.6464115629999, 
+              41.61508021000009
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Drake", 
+        "RegionID": "269483", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.6418032919999, 
+              41.58235007500008
+            ], 
+            [
+              -93.62364281299995, 
+              41.57260347600004
+            ], 
+            [
+              -93.6257399189999, 
+              41.55549101100007
+            ], 
+            [
+              -93.62573692399991, 
+              41.548209635000035
+            ], 
+            [
+              -93.64505322999992, 
+              41.54825882800009
+            ], 
+            [
+              -93.64503310799995, 
+              41.56914769300005
+            ], 
+            [
+              -93.6418032919999, 
+              41.58235007500008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Gray's Lake", 
+        "RegionID": "269490", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.59701786499994, 
+              41.569754024000076
+            ], 
+            [
+              -93.5969159249999, 
+              41.55531952900009
+            ], 
+            [
+              -93.60654485299995, 
+              41.55538773600006
+            ], 
+            [
+              -93.6257399189999, 
+              41.55549101100007
+            ], 
+            [
+              -93.62364281299995, 
+              41.57260347600004
+            ], 
+            [
+              -93.62180837299991, 
+              41.57399449800005
+            ], 
+            [
+              -93.59701786499994, 
+              41.569754024000076
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Indianola Hills", 
+        "RegionID": "269492", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.67333731299993, 
+              41.569945622000034
+            ], 
+            [
+              -93.68158689299992, 
+              41.57020516600005
+            ], 
+            [
+              -93.67915073899991, 
+              41.57992823500007
+            ], 
+            [
+              -93.67333731299993, 
+              41.569945622000034
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Linden Heights", 
+        "RegionID": "269497", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Magnolia Park", 
+        "RegionID": "269499", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.67812693999991, 
+              41.643055995000054
+            ], 
+            [
+              -93.67800892399993, 
+              41.629501970000035
+            ], 
+            [
+              -93.68466298499993, 
+              41.62945809200005
+            ], 
+            [
+              -93.69765699999994, 
+              41.63668000000007
+            ], 
+            [
+              -93.67812693999991, 
+              41.643055995000054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Meredith", 
+        "RegionID": "269501", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.62482033599991, 
+              41.63675313200008
+            ], 
+            [
+              -93.62528140299992, 
+              41.61380426000005
+            ], 
+            [
+              -93.62772876899993, 
+              41.61453796400008
+            ], 
+            [
+              -93.64508548999993, 
+              41.62766560300008
+            ], 
+            [
+              -93.6421093219999, 
+              41.636588000000074
+            ], 
+            [
+              -93.62482033599991, 
+              41.63675313200008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Oak Park", 
+        "RegionID": "269506", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.33054031999995, 
+              42.46937390200003
+            ], 
+            [
+              -92.33687547299996, 
+              42.46483437000006
+            ], 
+            [
+              -92.33687545799995, 
+              42.469385017000036
+            ], 
+            [
+              -92.33054031999995, 
+              42.46937390200003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Hurst", 
+        "RegionID": "266666", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Greenbrier", 
+        "RegionID": "260584", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.31860837399995, 
+              42.46881862400005
+            ], 
+            [
+              -92.32292755499998, 
+              42.48041615100004
+            ], 
+            [
+              -92.29318, 
+              42.477975
+            ], 
+            [
+              -92.30504425499998, 
+              42.45649122100008
+            ], 
+            [
+              -92.31860837399995, 
+              42.46881862400005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Waterloo", 
+        "Name": "Riverview", 
+        "RegionID": "251758", 
+        "County": "Black Hawk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.66479512699999, 
+              42.02281333900004
+            ], 
+            [
+              -93.66721034299997, 
+              42.02912953900005
+            ], 
+            [
+              -93.66482859799999, 
+              42.02644455600006
+            ], 
+            [
+              -93.66479512699999, 
+              42.02281333900004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Edwards", 
+        "RegionID": "259986", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Oak-Riverside", 
+        "RegionID": "764182", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Meeker North", 
+        "RegionID": "764183", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Allenview", 
+        "RegionID": "764184", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Top-O-Hollow", 
+        "RegionID": "764185", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.61055684699994, 
+              42.03010730600005
+            ], 
+            [
+              -93.61058808699994, 
+              42.03122153000004
+            ], 
+            [
+              -93.61064900099996, 
+              42.03455658200005
+            ], 
+            [
+              -93.61055684699994, 
+              42.03010730600005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Sunrise Addition", 
+        "RegionID": "764179", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.61064900099996, 
+              42.03455658200005
+            ], 
+            [
+              -93.61058808699994, 
+              42.03122153000004
+            ], 
+            [
+              -93.61702976299995, 
+              42.031251987000076
+            ], 
+            [
+              -93.61064900099996, 
+              42.03455658200005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "North Old Town", 
+        "RegionID": "764181", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.63017816399997, 
+              42.06210981900006
+            ], 
+            [
+              -93.63372970899997, 
+              42.05626202600007
+            ], 
+            [
+              -93.63516119299999, 
+              42.05646570700003
+            ], 
+            [
+              -93.63522210699995, 
+              42.063653583000075
+            ], 
+            [
+              -93.63017816399997, 
+              42.06210981900006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Stone Brooke", 
+        "RegionID": "764186", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.63522210699995, 
+              42.063653583000075
+            ], 
+            [
+              -93.63516119299999, 
+              42.05646570700003
+            ], 
+            [
+              -93.64245566899996, 
+              42.05634387900005
+            ], 
+            [
+              -93.63522210699995, 
+              42.063653583000075
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Bloomington Heights", 
+        "RegionID": "137488", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Northridge", 
+        "RegionID": "764327", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "College Creek/Old Ames", 
+        "RegionID": "764177", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.65844405599995, 
+              42.02275294200007
+            ], 
+            [
+              -93.66479512699999, 
+              42.02281333900004
+            ], 
+            [
+              -93.66482859799999, 
+              42.02644455600006
+            ], 
+            [
+              -93.65759884399995, 
+              42.02533096800005
+            ], 
+            [
+              -93.65844405599995, 
+              42.02275294200007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Westside", 
+        "RegionID": "764176", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.66773211299994, 
+              41.584490534000054
+            ], 
+            [
+              -93.66559003899994, 
+              41.57303165800005
+            ], 
+            [
+              -93.67333731299993, 
+              41.569945622000034
+            ], 
+            [
+              -93.67915073899991, 
+              41.57992823500007
+            ], 
+            [
+              -93.67713131699992, 
+              41.58456021400008
+            ], 
+            [
+              -93.6742759249999, 
+              41.58454196900004
+            ], 
+            [
+              -93.66773211299994, 
+              41.584490534000054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Salisbury Oaks", 
+        "RegionID": "269508", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.6816298949999, 
+              41.59187807300009
+            ], 
+            [
+              -93.68157089199991, 
+              41.584775973000035
+            ], 
+            [
+              -93.70349879299994, 
+              41.58270925900007
+            ], 
+            [
+              -93.70356114799995, 
+              41.59317254800004
+            ], 
+            [
+              -93.6937318649999, 
+              41.59269502800004
+            ], 
+            [
+              -93.6816298949999, 
+              41.59187807300009
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Waterbury", 
+        "RegionID": "269515", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.7036829999999, 
+              41.600437000000056
+            ], 
+            [
+              -93.69371790299994, 
+              41.60039807800007
+            ], 
+            [
+              -93.6937318649999, 
+              41.59269502800004
+            ], 
+            [
+              -93.70356114799995, 
+              41.59317254800004
+            ], 
+            [
+              -93.7036829999999, 
+              41.600437000000056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Waveland Woods", 
+        "RegionID": "269517", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.6618236349999, 
+              41.629553025000064
+            ], 
+            [
+              -93.65853404899991, 
+              41.61683540700005
+            ], 
+            [
+              -93.65852292999995, 
+              41.61499127600007
+            ], 
+            [
+              -93.6744044539999, 
+              41.60399999800006
+            ], 
+            [
+              -93.6826762959999, 
+              41.61126095700007
+            ], 
+            [
+              -93.68466298499993, 
+              41.62945809200005
+            ], 
+            [
+              -93.67800892399993, 
+              41.629501970000035
+            ], 
+            [
+              -93.6618236349999, 
+              41.629553025000064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Beaverdale", 
+        "RegionID": "272898", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.59696945499991, 
+              41.57543360900007
+            ], 
+            [
+              -93.61101812699991, 
+              41.57936416800004
+            ], 
+            [
+              -93.61223578499994, 
+              41.57992674800005
+            ], 
+            [
+              -93.6161572179999, 
+              41.584701093000035
+            ], 
+            [
+              -93.5968943879999, 
+              41.586894691000055
+            ], 
+            [
+              -93.59696945499991, 
+              41.57543360900007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Capitol View South", 
+        "RegionID": "273134", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.6185777799999, 
+              41.59160174200008
+            ], 
+            [
+              -93.6161572179999, 
+              41.584701093000035
+            ], 
+            [
+              -93.61223578499994, 
+              41.57992674800005
+            ], 
+            [
+              -93.61224940499994, 
+              41.57967540900006
+            ], 
+            [
+              -93.62180837299991, 
+              41.57399449800005
+            ], 
+            [
+              -93.62364281299995, 
+              41.57260347600004
+            ], 
+            [
+              -93.6418032919999, 
+              41.58235007500008
+            ], 
+            [
+              -93.6411727059999, 
+              41.58570771700005
+            ], 
+            [
+              -93.63772004099991, 
+              41.59169064200006
+            ], 
+            [
+              -93.6185777799999, 
+              41.59160174200008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Downtown Des Moines", 
+        "RegionID": "273500", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.58244591399995, 
+              41.600516078000055
+            ], 
+            [
+              -93.59892591699992, 
+              41.59613202400004
+            ], 
+            [
+              -93.60051892299992, 
+              41.60773007900008
+            ], 
+            [
+              -93.59798257099993, 
+              41.60775502800004
+            ], 
+            [
+              -93.58244591399995, 
+              41.600516078000055
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "M.L. King Jr. Park", 
+        "RegionID": "276432", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.66773211299994, 
+              41.584490534000054
+            ], 
+            [
+              -93.65936687099992, 
+              41.58444745800006
+            ], 
+            [
+              -93.65913203499991, 
+              41.57673401200009
+            ], 
+            [
+              -93.66559003899994, 
+              41.57303165800005
+            ], 
+            [
+              -93.66773211299994, 
+              41.584490534000054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Greenwood", 
+        "RegionID": "273904", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.55142792499993, 
+              41.60056596900006
+            ], 
+            [
+              -93.55834792499991, 
+              41.60051307800006
+            ], 
+            [
+              -93.58075641499994, 
+              41.600501690000044
+            ], 
+            [
+              -93.5808109749999, 
+              41.60282099300008
+            ], 
+            [
+              -93.57082348499995, 
+              41.60727530000008
+            ], 
+            [
+              -93.5514699659999, 
+              41.61245510100008
+            ], 
+            [
+              -93.55142792499993, 
+              41.60056596900006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "ACCENT", 
+        "RegionID": "269475", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.64376591299992, 
+              41.59595402800005
+            ], 
+            [
+              -93.64965768699994, 
+              41.59486190000007
+            ], 
+            [
+              -93.64964582899995, 
+              41.600427326000045
+            ], 
+            [
+              -93.64376092099991, 
+              41.60040602300006
+            ], 
+            [
+              -93.64376591299992, 
+              41.59595402800005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Drake Park", 
+        "RegionID": "269484", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.5299139999999, 
+              41.615121000000045
+            ], 
+            [
+              -93.52980134099994, 
+              41.60065570200004
+            ], 
+            [
+              -93.53336055199992, 
+              41.60065403200008
+            ], 
+            [
+              -93.55142792499993, 
+              41.60056596900006
+            ], 
+            [
+              -93.5514699659999, 
+              41.61245510100008
+            ], 
+            [
+              -93.55146971199991, 
+              41.612455165000085
+            ], 
+            [
+              -93.5299139999999, 
+              41.615121000000045
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Gray's Woods", 
+        "RegionID": "269489", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.6421093219999, 
+              41.636588000000074
+            ], 
+            [
+              -93.64508548999993, 
+              41.62766560300008
+            ], 
+            [
+              -93.6618236349999, 
+              41.629553025000064
+            ], 
+            [
+              -93.67800892399993, 
+              41.629501970000035
+            ], 
+            [
+              -93.67812693999991, 
+              41.643055995000054
+            ], 
+            [
+              -93.6421093219999, 
+              41.636588000000074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Lower Beaver", 
+        "RegionID": "269498", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.62528140299992, 
+              41.61380426000005
+            ], 
+            [
+              -93.6198554749999, 
+              41.61283784300008
+            ], 
+            [
+              -93.61979994299992, 
+              41.60034073800006
+            ], 
+            [
+              -93.62988947799994, 
+              41.600657686000034
+            ], 
+            [
+              -93.62998736299994, 
+              41.61412983400004
+            ], 
+            [
+              -93.62772876899993, 
+              41.61453796400008
+            ], 
+            [
+              -93.62528140299992, 
+              41.61380426000005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "River Bend", 
+        "RegionID": "269507", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.63772004099991, 
+              41.59169064200006
+            ], 
+            [
+              -93.6411727059999, 
+              41.58570771700005
+            ], 
+            [
+              -93.64473902999993, 
+              41.58574035200007
+            ], 
+            [
+              -93.64480023699991, 
+              41.58574106900005
+            ], 
+            [
+              -93.64376591299992, 
+              41.59595402800005
+            ], 
+            [
+              -93.63772004099991, 
+              41.59169064200006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Sherman Hill", 
+        "RegionID": "269509", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.52980134099994, 
+              41.60065570200004
+            ], 
+            [
+              -93.53933834599991, 
+              41.59046917300009
+            ], 
+            [
+              -93.53933327999994, 
+              41.59078492600008
+            ], 
+            [
+              -93.53336055199992, 
+              41.60065403200008
+            ], 
+            [
+              -93.52980134099994, 
+              41.60065570200004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Valley High Manor", 
+        "RegionID": "269514", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.6744044539999, 
+              41.60399999800006
+            ], 
+            [
+              -93.67437592199991, 
+              41.59140902900003
+            ], 
+            [
+              -93.6816298949999, 
+              41.59187807300009
+            ], 
+            [
+              -93.6937318649999, 
+              41.59269502800004
+            ], 
+            [
+              -93.69371790299994, 
+              41.60039807800007
+            ], 
+            [
+              -93.6826762959999, 
+              41.61126095700007
+            ], 
+            [
+              -93.6744044539999, 
+              41.60399999800006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Waveland Park", 
+        "RegionID": "269516", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.63899791299991, 
+              41.61506411100004
+            ], 
+            [
+              -93.63421486599992, 
+              41.611084024000036
+            ], 
+            [
+              -93.64383497299991, 
+              41.607759023000085
+            ], 
+            [
+              -93.6464115629999, 
+              41.61508021000009
+            ], 
+            [
+              -93.6464130629999, 
+              41.61508412500007
+            ], 
+            [
+              -93.63899791299991, 
+              41.61506411100004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Mondamin Presidential", 
+        "RegionID": "274571", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.67713131699992, 
+              41.58456021400008
+            ], 
+            [
+              -93.67915073899991, 
+              41.57992823500007
+            ], 
+            [
+              -93.68158689299992, 
+              41.57020516600005
+            ], 
+            [
+              -93.69750123699993, 
+              41.576474982000036
+            ], 
+            [
+              -93.7033798189999, 
+              41.57669487000004
+            ], 
+            [
+              -93.70349879299994, 
+              41.58270925900007
+            ], 
+            [
+              -93.68157089199991, 
+              41.584775973000035
+            ], 
+            [
+              -93.67713131699992, 
+              41.58456021400008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Westwood", 
+        "RegionID": "276041", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.65759884399995, 
+              42.02533096800005
+            ], 
+            [
+              -93.66482859799999, 
+              42.02644455600006
+            ], 
+            [
+              -93.66721034299997, 
+              42.02912953900005
+            ], 
+            [
+              -93.65759884399995, 
+              42.02533096800005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Oak-Wood-Forest", 
+        "RegionID": "764175", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Kate Mitchell", 
+        "RegionID": "764174", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Brookside", 
+        "RegionID": "208718", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "South Campus Area", 
+        "RegionID": "764178", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.61058808699994, 
+              42.03122153000004
+            ], 
+            [
+              -93.61055684699994, 
+              42.03010730600005
+            ], 
+            [
+              -93.61702976299995, 
+              42.031251987000076
+            ], 
+            [
+              -93.61058808699994, 
+              42.03122153000004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Historic Old Town", 
+        "RegionID": "764180", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.64966162799999, 
+              42.04539645500006
+            ], 
+            [
+              -93.64966638699997, 
+              42.056265833000054
+            ], 
+            [
+              -93.64245566899996, 
+              42.05634387900005
+            ], 
+            [
+              -93.63468530099999, 
+              42.04554874000007
+            ], 
+            [
+              -93.64966162799999, 
+              42.04539645500006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Ames", 
+        "Name": "Somerset Village", 
+        "RegionID": "764187", 
+        "County": "Story", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.66370063599999, 
+              42.50945945400008
+            ], 
+            [
+              -90.66639615299994, 
+              42.503916023000045
+            ], 
+            [
+              -90.66978446599995, 
+              42.50931196600004
+            ], 
+            [
+              -90.67123498599994, 
+              42.513446517000034
+            ], 
+            [
+              -90.66787328299995, 
+              42.51471857700005
+            ], 
+            [
+              -90.66370063599999, 
+              42.50945945400008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Washington", 
+        "RegionID": "261693", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.67255986999999, 
+              42.51561658600008
+            ], 
+            [
+              -90.67521471399994, 
+              42.51924272600007
+            ], 
+            [
+              -90.68579728699996, 
+              42.53249743400005
+            ], 
+            [
+              -90.66608392899997, 
+              42.51677014900008
+            ], 
+            [
+              -90.66787328299995, 
+              42.51471857700005
+            ], 
+            [
+              -90.67123498599994, 
+              42.513446517000034
+            ], 
+            [
+              -90.67255986999999, 
+              42.51561658600008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "North End", 
+        "RegionID": "764137", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "South Grandview", 
+        "RegionID": "764328", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.52234870599995, 
+              41.629368010000064
+            ], 
+            [
+              -93.52234219399992, 
+              41.62983396900006
+            ], 
+            [
+              -93.50544599999995, 
+              41.61559300000005
+            ], 
+            [
+              -93.52234870599995, 
+              41.629368010000064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Brooks Run", 
+        "RegionID": "417029", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.57975074199993, 
+              41.55106711600007
+            ], 
+            [
+              -93.57970361799994, 
+              41.548059023000064
+            ], 
+            [
+              -93.59690591799995, 
+              41.54810203400007
+            ], 
+            [
+              -93.59691607399992, 
+              41.55354181000007
+            ], 
+            [
+              -93.57975074199993, 
+              41.55106711600007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Ewing Woods-Evergreen", 
+        "RegionID": "417027", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.64508548999993, 
+              41.62766560300008
+            ], 
+            [
+              -93.62772876899993, 
+              41.61453796400008
+            ], 
+            [
+              -93.62998736299994, 
+              41.61412983400004
+            ], 
+            [
+              -93.63175092099993, 
+              41.61487210900009
+            ], 
+            [
+              -93.63899791299991, 
+              41.61506411100004
+            ], 
+            [
+              -93.6464130629999, 
+              41.61508412500007
+            ], 
+            [
+              -93.65853404899991, 
+              41.61683540700005
+            ], 
+            [
+              -93.6618236349999, 
+              41.629553025000064
+            ], 
+            [
+              -93.64508548999993, 
+              41.62766560300008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Prospect Park", 
+        "RegionID": "417022", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Valley View", 
+        "RegionID": "405862", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Grandview", 
+        "RegionID": "411894", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.66370063599999, 
+              42.50945945400008
+            ], 
+            [
+              -90.66787328299995, 
+              42.51471857700005
+            ], 
+            [
+              -90.66608392899997, 
+              42.51677014900008
+            ], 
+            [
+              -90.64954861899997, 
+              42.546775928000045
+            ], 
+            [
+              -90.63912773899995, 
+              42.52424143200005
+            ], 
+            [
+              -90.66370063599999, 
+              42.50945945400008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Eagle Point", 
+        "RegionID": "49383", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Broadway", 
+        "RegionID": "17177", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.66978446599995, 
+              42.50931196600004
+            ], 
+            [
+              -90.66639615299994, 
+              42.503916023000045
+            ], 
+            [
+              -90.66962055099998, 
+              42.501084056000025
+            ], 
+            [
+              -90.67017121599997, 
+              42.500876309000034
+            ], 
+            [
+              -90.67255415899996, 
+              42.50687159100005
+            ], 
+            [
+              -90.67331558599994, 
+              42.50760922400008
+            ], 
+            [
+              -90.67167788099994, 
+              42.508717338000054
+            ], 
+            [
+              -90.66978446599995, 
+              42.50931196600004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Downtown", 
+        "RegionID": "764136", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Bluff Street", 
+        "RegionID": "764132", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.66652228099997, 
+              42.493463193000025
+            ], 
+            [
+              -90.67747026, 
+              42.49335492800003
+            ], 
+            [
+              -90.67698142399996, 
+              42.49620342800006
+            ], 
+            [
+              -90.67213874499998, 
+              42.50007528700007
+            ], 
+            [
+              -90.67017121599997, 
+              42.500876309000034
+            ], 
+            [
+              -90.66962055099998, 
+              42.501084056000025
+            ], 
+            [
+              -90.66913968799997, 
+              42.49986870200007
+            ], 
+            [
+              -90.66652228099997, 
+              42.493463193000025
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Fenelon-Hill", 
+        "RegionID": "764133", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.67213874499998, 
+              42.50007528700007
+            ], 
+            [
+              -90.67698142399996, 
+              42.49620342800006
+            ], 
+            [
+              -90.6799607199999, 
+              42.49665152700004
+            ], 
+            [
+              -90.67883593599998, 
+              42.49944767200003
+            ], 
+            [
+              -90.67213874499998, 
+              42.50007528700007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Hilltop/Ivy League", 
+        "RegionID": "764134", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.67017121599997, 
+              42.500876309000034
+            ], 
+            [
+              -90.67213874499998, 
+              42.50007528700007
+            ], 
+            [
+              -90.67883593599998, 
+              42.49944767200003
+            ], 
+            [
+              -90.67255415899996, 
+              42.50687159100005
+            ], 
+            [
+              -90.67017121599997, 
+              42.500876309000034
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Historic Bluffs", 
+        "RegionID": "764135", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.67698142399996, 
+              42.49620342800006
+            ], 
+            [
+              -90.67747026, 
+              42.49335492800003
+            ], 
+            [
+              -90.6799607199999, 
+              42.49665152700004
+            ], 
+            [
+              -90.67698142399996, 
+              42.49620342800006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Dubuque", 
+        "Name": "Langworthy District", 
+        "RegionID": "764319", 
+        "County": "Dubuque", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.59701783499992, 
+              41.569758326000056
+            ], 
+            [
+              -93.59701786499994, 
+              41.569754024000076
+            ], 
+            [
+              -93.62180837299991, 
+              41.57399449800005
+            ], 
+            [
+              -93.61224940499994, 
+              41.57967540900006
+            ], 
+            [
+              -93.61101812699991, 
+              41.57936416800004
+            ], 
+            [
+              -93.59696945499991, 
+              41.57543360900007
+            ], 
+            [
+              -93.59701783499992, 
+              41.569758326000056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "McKinley School - Columbus Park", 
+        "RegionID": "274472", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Des Moines", 
+        "Name": "Hillsboro", 
+        "RegionID": "417028", 
+        "County": "Polk", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.84996228899996, 
+              41.26269556900007
+            ], 
+            [
+              -95.85309403299999, 
+              41.26795950400003
+            ], 
+            [
+              -95.84603417199997, 
+              41.264205064000066
+            ], 
+            [
+              -95.84996228899996, 
+              41.26269556900007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Council Bluffs", 
+        "Name": "Oakland-Fairview", 
+        "RegionID": "763969", 
+        "County": "Pottawattamie", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.86578527799998, 
+              41.24981450700005
+            ], 
+            [
+              -95.85082927999997, 
+              41.24583156500006
+            ], 
+            [
+              -95.85075313699997, 
+              41.23212587000006
+            ], 
+            [
+              -95.86507200099999, 
+              41.23223284100004
+            ], 
+            [
+              -95.87929143999997, 
+              41.23233907000008
+            ], 
+            [
+              -95.88756054299995, 
+              41.249790989000076
+            ], 
+            [
+              -95.86578527799998, 
+              41.24981450700005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Council Bluffs", 
+        "Name": "South End", 
+        "RegionID": "763971", 
+        "County": "Pottawattamie", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.86184208899994, 
+              41.26800809500003
+            ], 
+            [
+              -95.86578527799998, 
+              41.24981450700005
+            ], 
+            [
+              -95.88756054299995, 
+              41.249790989000076
+            ], 
+            [
+              -95.921692, 
+              41.259838
+            ], 
+            [
+              -95.86184208899994, 
+              41.26800809500003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Council Bluffs", 
+        "Name": "West End", 
+        "RegionID": "198812", 
+        "County": "Pottawattamie", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.87929143999997, 
+              41.23233907000008
+            ], 
+            [
+              -95.91082726199994, 
+              41.23176327700003
+            ], 
+            [
+              -95.921692, 
+              41.259838
+            ], 
+            [
+              -95.88756054299995, 
+              41.249790989000076
+            ], 
+            [
+              -95.87929143999997, 
+              41.23233907000008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Council Bluffs", 
+        "Name": "Casino Row", 
+        "RegionID": "763972", 
+        "County": "Pottawattamie", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.85309403299999, 
+              41.26795950400003
+            ], 
+            [
+              -95.84996228899996, 
+              41.26269556900007
+            ], 
+            [
+              -95.84871614199994, 
+              41.26084332900007
+            ], 
+            [
+              -95.84858568399994, 
+              41.253380769000046
+            ], 
+            [
+              -95.85082927999997, 
+              41.24583156500006
+            ], 
+            [
+              -95.86578527799998, 
+              41.24981450700005
+            ], 
+            [
+              -95.86184208899994, 
+              41.26800809500003
+            ], 
+            [
+              -95.85309403299999, 
+              41.26795950400003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Council Bluffs", 
+        "Name": "Downtown", 
+        "RegionID": "763970", 
+        "County": "Pottawattamie", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.85075313699997, 
+              41.23212587000006
+            ], 
+            [
+              -95.82762063399997, 
+              41.21579041600006
+            ], 
+            [
+              -95.83542526599996, 
+              41.17959881500008
+            ], 
+            [
+              -95.873608, 
+              41.188223
+            ], 
+            [
+              -95.86507200099999, 
+              41.23223284100004
+            ], 
+            [
+              -95.85075313699997, 
+              41.23212587000006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Council Bluffs", 
+        "Name": "Manawa", 
+        "RegionID": "43675", 
+        "County": "Pottawattamie", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.84858568399994, 
+              41.253380769000046
+            ], 
+            [
+              -95.84871614199994, 
+              41.26084332900007
+            ], 
+            [
+              -95.83851158599998, 
+              41.26590510900007
+            ], 
+            [
+              -95.81990296299995, 
+              41.25347956400003
+            ], 
+            [
+              -95.84858568399994, 
+              41.253380769000046
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Council Bluffs", 
+        "Name": "Huntington Avenue", 
+        "RegionID": "763968", 
+        "County": "Pottawattamie", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.84871614199994, 
+              41.26084332900007
+            ], 
+            [
+              -95.84996228899996, 
+              41.26269556900007
+            ], 
+            [
+              -95.84603417199997, 
+              41.264205064000066
+            ], 
+            [
+              -95.83851158599998, 
+              41.26590510900007
+            ], 
+            [
+              -95.84871614199994, 
+              41.26084332900007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Council Bluffs", 
+        "Name": "Old Town", 
+        "RegionID": "135127", 
+        "County": "Pottawattamie", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.86507200099999, 
+              41.23223284100004
+            ], 
+            [
+              -95.873608, 
+              41.188223
+            ], 
+            [
+              -95.923205, 
+              41.190282
+            ], 
+            [
+              -95.91082726199994, 
+              41.23176327700003
+            ], 
+            [
+              -95.87929143999997, 
+              41.23233907000008
+            ], 
+            [
+              -95.86507200099999, 
+              41.23223284100004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Council Bluffs", 
+        "Name": "Twin City", 
+        "RegionID": "132368", 
+        "County": "Pottawattamie", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.64430096099994, 
+              41.99274549800003
+            ], 
+            [
+              -91.65797310099998, 
+              41.98501405900004
+            ], 
+            [
+              -91.65989189899994, 
+              41.99952353600003
+            ], 
+            [
+              -91.64430096099994, 
+              41.99274549800003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Cedar Rapids", 
+        "Name": "Mound View", 
+        "RegionID": "762541", 
+        "County": "Linn", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.65834588399997, 
+              42.01042511600008
+            ], 
+            [
+              -91.638406, 
+              42.02789036000007
+            ], 
+            [
+              -91.624485, 
+              42.009704
+            ], 
+            [
+              -91.65834588399997, 
+              42.01042511600008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Cedar Rapids", 
+        "Name": "Kenwood Park", 
+        "RegionID": "762543", 
+        "County": "Linn", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Cedar Rapids", 
+        "Name": "Lincolnway Village", 
+        "RegionID": "134770", 
+        "County": "Linn", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.64282045599998, 
+              41.977277955000034
+            ], 
+            [
+              -91.65816996199999, 
+              41.98216401900004
+            ], 
+            [
+              -91.65797310099998, 
+              41.98501405900004
+            ], 
+            [
+              -91.64430096099994, 
+              41.99274549800003
+            ], 
+            [
+              -91.64282045599998, 
+              41.977277955000034
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Cedar Rapids", 
+        "Name": "Wellington Heights", 
+        "RegionID": "762540", 
+        "County": "Linn", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.638406, 
+              42.02789036000007
+            ], 
+            [
+              -91.65834588399997, 
+              42.01042511600008
+            ], 
+            [
+              -91.66810167399996, 
+              42.02998428500007
+            ], 
+            [
+              -91.638406, 
+              42.02789036000007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Cedar Rapids", 
+        "Name": "Noelridge Park", 
+        "RegionID": "762542", 
+        "County": "Linn", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.740351, 
+              41.978477
+            ], 
+            [
+              -91.71607973799996, 
+              41.96357437200004
+            ], 
+            [
+              -91.75504341199996, 
+              41.964050264000036
+            ], 
+            [
+              -91.740351, 
+              41.978477
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Cedar Rapids", 
+        "Name": "Cedar Hills", 
+        "RegionID": "133916", 
+        "County": "Linn", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": null, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Cedar Rapids", 
+        "Name": "Taylor", 
+        "RegionID": "411365", 
+        "County": "Linn", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.65816996199999, 
+              41.98216401900004
+            ], 
+            [
+              -91.64282045599998, 
+              41.977277955000034
+            ], 
+            [
+              -91.65551250099998, 
+              41.96566618500003
+            ], 
+            [
+              -91.65816996199999, 
+              41.98216401900004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Cedar Rapids", 
+        "Name": "Oakhill Jackson", 
+        "RegionID": "762539", 
+        "County": "Linn", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.61835446399994, 
+              41.962255034000066
+            ], 
+            [
+              -91.63322329599998, 
+              41.94540190200007
+            ], 
+            [
+              -91.63961809799997, 
+              41.962801711000054
+            ], 
+            [
+              -91.61835446399994, 
+              41.962255034000066
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "City": "Cedar Rapids", 
+        "Name": "Cedar Valley", 
+        "RegionID": "133919", 
+        "County": "Linn", 
+        "State_abbv": "IA", 
+        "State": "Iowa"
+      }
+    }
+  ]
+}
